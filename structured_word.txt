@@ -1,0 +1,7 @@
+can be: हो सकता है
+should be: होना चाहिए
+may be: शायद
+could be: हो सकता था
+would be: होगा
+will be: होगा ही
+must be: पक्का होगा
