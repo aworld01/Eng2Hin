@@ -1,34 +1,241 @@
-I'll be back in a flush.
-मैं यूं गया और यूं आया।
-
-That makes sense.
-यह बात समझ में आती है।
-
-Could you walk me through it?
-क्या आप मुझे स्टेप बाय स्टेप समझा सकते हैं?
-
-I am getting it.
-मुझे यह समझ आ रहा है।
-
-I am under the weather today.
-मैं आज अच्छा महसूस नहीं कर रहा हूं।
-
-Let's figure something out.
-चलो इसको सॉल्व करते हैं।
-
-there is a lot on my plate.
-अभी मैं बहुत बिजी हूं।
-
-How have you been lately?
-आजकल तुम कैसे हो?
-
-It's a piece of cake.
-यह बहुत आसान है।
-
-
-
 1
 Sir, I want to tell something.
+सर, मैं कुछ बताना चाहता हूं.
 
 2
-सर, मैं कुछ बताना चाहता हूं.
+Yes, please tell me.
+हाँ, कृपया मुझे बताओ.
+
+3
+What happened?
+क्या हुआ?
+
+4
+Sir, when I speak English, people laugh at me.
+सर, जब मैं अंग्रेजी बोलता हूं तो लोग हंसते हैं मैं.
+
+5
+They smile and talk to each other.
+वे मुस्कुराते हैं और एक दूसरे से बात करते हैं।
+
+6
+I feel very bad.
+मुझे बहुत बुरा लगता है।
+
+7
+I feel I am not good.
+मुझे लगता है कि मैं अच्छा नहीं हूं.
+
+8
+My English is very weak.
+मेरी अंग्रेजी बहुत कमजोर है.
+
+9
+Oh, I understand.
+ओह मैं समझा।
+
+10
+You feel sad because people laugh when you speak English.
+आप दुखी महसूस करते हैं क्योंकि जब आप हंसते हैं तो लोग हंसते हैं अंग्रेजी बोलो.
+
+11
+But don't worry.
+लेकिन घबराना नहीं।
+
+12
+It's okay to make mistakes.
+ग़लतियाँ करना ठीक है.
+
+13
+Everyone makes mistakes when they learn a new language.
+जब वे सीखते हैं तो हर कोई गलतियाँ करता है नई भाषा.
+
+14
+You are learning and learning takes time.
+आप सीख रहे हैं और सीखने में समय लगता है।
+
+15
+But sir, they speak fast.
+लेकिन सर, वे तेजी से बोलते हैं।
+
+16
+I don't understand them.
+मैं उन्हें नहीं समझता.
+
+17
+When I try to talk, my words are wrong.
+जब मैं बात करने की कोशिश करता हूं तो मेरी बातें गलत हो जाती हैं.
+
+18
+My friends laugh and I feel nervous.
+मेरे दोस्त हँसते हैं और मैं घबरा जाता हूँ।
+
+19
+It's fine.
+ठीक है।
+
+20
+You are not alone.
+आप अकेले नहीं हैं।
+
+21
+Many students feel like you.
+कई छात्र आपके जैसा महसूस करते हैं।
+
+22
+You only need more practice and confidence.
+आपको केवल और अधिक अभ्यास और आत्मविश्वास की आवश्यकता है.
+
+23
+Let's practice together.
+आइए एक साथ अभ्यास करें।
+
+24
+Let's speak simple English, okay?
+आइए सरल अंग्रेजी बोलें, ठीक है?
+
+
+25
+Okay, sir.
+ठीक है सर.
+
+26
+We will use simple present tense today.
+आज हम सरल वर्तमान काल का प्रयोग करेंगे।
+
+27
+We use simple present tense to talk about daily life, habits and routines.
+हम बात करने के लिए दैनिक जीवन में सरल वर्तमान काल का उपयोग करते हैं, आदतें और दिनचर्या।
+
+28
+For example, I say, I wake up at six o'clock.
+उदाहरण के लिए, मैं कहता हूं, मैं छह बजे उठता हूं.
+
+29
+That means I do it every day.
+इसका मतलब है कि मैं इसे हर दिन करता हूं।
+
+30
+You can say, I wake up at seven o'clock.
+आप कह सकते हैं, मैं सात बजे उठता हूं.
+
+31
+Let's try.
+आओ कोशिश करते हैं।
+
+32
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं.
+
+33
+Very good.
+बहुत अच्छा।
+
+34
+Say it again slowly.
+इसे फिर धीरे से कहो.
+
+35
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं.
+
+36
+Perfect.
+उत्तम।
+
+37
+See, you speak well.
+देखो, तुम अच्छा बोलते हो.
+
+38
+Now let's add more sentences.
+अब और वाक्य जोड़ते हैं।
+
+39
+After you wake up, what do you do?
+जागने के बाद आप क्या करते हैं?
+
+40
+I brush my teeth.
+मैं अपने दाँत ब्रश करता हूँ।
+
+41
+Good.
+अच्छा।
+
+42
+Say, I brush my teeth.
+कहो, मैं अपने दाँत ब्रश करता हूँ।
+
+43
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+44
+Nice.
+अच्छा।
+
+45
+Now say two sentences together.
+अब दो वाक्य एक साथ बोलें.
+
+46
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं.
+
+47
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+48
+Excellent.
+उत्कृष्ट।
+
+49
+You are learning fast.
+आप तेजी से सीख रहे हैं.
+
+50
+Let's continue.
+आगे है।
+
+51
+After you brush your teeth, what do you
+do?
+अपने दाँत ब्रश करने के बाद आप क्या करते हैं?
+
+52
+I wash my face.
+मैं अपने चेहरे को धोता हुँ।
+
+53
+I take a shower.
+मैं स्नान कर लेता हूँ।
+
+54
+Very good.
+बहुत अच्छा।
+
+55
+You can also say, I wash my face and take a shower.
+आप ये भी कह सकते हैं, मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+56
+Try it.
+इसे अजमाएं।
+
+57
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+58
+Great job.
+अच्छा काम।
+
+59
+Remember, always speak slowly and clearly.
+याद रखें, हमेशा धीरे और स्पष्ट रूप से बोलें।
+
+60
+Don't be afraid.
+डरो मत.
