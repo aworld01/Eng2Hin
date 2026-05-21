@@ -1,36 +1,172 @@
-Learning breeds controversy.: विद्या में विवाद होना स्वाभाविक है।
-Kneel down and give thanks to God: घूटने टेको और ईश्वर को धन्यवाद दो
-Kindly grant me one day's leave: दया कर मुझे एक दिन की छुट्टी दें
-Keep quiet: शान्ति रखो
-Keep silence, please: क्रिप्या शान्त रहिए
-Keep pace with me: मेरे साथ पैर मिलाकर चलो
-Keep the change: इस रेजगारी को रखो
-Keep the fire going: आग बुझने न देना
-Keep to the left: बायें हाथ चलो
-Knowledge is power.: ज्ञान ही शक्ति है।
-Leave it to me: यह मुझपर छोड़ दो
-Leave me alone: मेरा पिण्ड छोड़ दो
-Leave now: मेरा पिण्ड छोड़ दो
-Let's go by bus: आओ बस में चलें
-Let's go for a bath: स्नान करने चलें
-Let's go for a walk: आओ घूमने चलें
-Let's go out for a walk: हमलोग टहलने चलें
-Let's have a scroll: टहलने के लिए आइए
-Let's have food now: आओ, अब खाना खाएं
-Let's see where he stands: देखें वह कितने पानी में है
-Let's work hard: आओ हम परिश्रम करें
-Let him come after all: वह आए तो सही
-Let it be: जाने दीजिए
-Let it remain inside: इसे अंदर ही रहने दो
-Let me have a look: मुझे देखने दो
-Let me have a look first: पहले देखूँ भी तो
-Let me introduce my self: मुझे अपना परिचय स्वयं देने दें
-Let me introduce you to my family: आइए, मैं आपको अपने परिवार से मिलाऊं
-Let me see: जरा देखने दो
-Let me work: मुझे काम करने दो
-Let the past bury the dead.: गड़े मुर्दे मत उखाड़ो।
-Let them play football: उन्हें फुटबाल खेलने दो
-Let them relax: उन्हें आराम करने दीजिए
-Let these people do their work: इन लोगों को अपना काम करने दो
-Let this not happen in future: भविष्य में ऐसा न करना
-Light the lamp: दीया जला दो
+Learning breeds controversy.
+विद्या में विवाद होना स्वाभाविक है।
+
+Kneel down and give thanks to God.
+घुटने टेककर ईश्वर का धन्यवाद करो।
+
+Kindly grant me one day's leave
+कृपया मुझे एक दिन की छुट्टी प्रदान करें।
+
+Keep quiet
+चुप रहो
+
+Keep silence, please
+कृपया चुप रहें
+
+Keep pace with me
+मेरे साथ तालमेल बनाए रखें
+
+Keep the change
+छुट्टे पैसे तुम रखो
+
+Keep the fire going
+आग बुझने न देना
+
+Keep to the left
+बाई ओर चले
+
+Knowledge is power.
+ज्ञान ही शक्ति है।
+
+Leave it to me.
+इसे मेरे ऊपर छोड़ दो।
+
+Leave me alone.
+मुझे अकेला छोड़ दो।
+
+Leave now.
+अब छोड़ दें
+
+Let's go by bus
+चलिए बस से चलते हैं
+
+Let's go for a bath
+चलो नहाने चलते हैं
+
+Let's go for a walk
+आओ घूमने चलते हैं
+
+Let's go out for a walk
+चलो बाहर घूमने चलते हैं
+
+Let me know
+मुझे बताओ
+
+Let's have food now
+चलिए अब खाना खाते हैं
+
+Let's see where he stands
+देखें वह कितने पानी में है
+
+Let's work hard
+आइए कड़ी मेहनत करें
+
+Let him come after all
+वह आए तो सही
+
+Let it be
+जाने भी दो
+
+Let it remain inside
+इसे अंदर ही रहने दो
+
+Have a look
+एक नज़र देख लो
+
+Let me have a look
+मुझे एक नजर देखने दो
+
+Let me have a look first
+मुझे पहले एक बार देख लेने दीजिए।
+
+Let me introduce my self
+मुझे अपना परिचय देने दो
+
+Let me introduce you to my family
+आइए मैं आपको अपने परिवार से मिलवाता हूँ।
+
+Let me see
+मुझे देखने दो
+
+Let me work
+मुझे काम करने दो
+
+Let the past bury the dead.
+गड़े मुर्दे मत उखाड़ो।
+
+Let them play football
+उन्हें फुटबाल खेलने दो
+
+Let them relax
+उन्हें आराम करने दो
+
+Let these people do their work
+इन लोगों को अपना काम करने दो
+
+Let this not happen in future
+भविष्य में ऐसा न करना
+
+Light the lamp
+दीपक जलाओ
+
+I'll be back in a flush.
+मैं यूं गया और यूं आया।
+
+That makes sense.
+यह बात समझ में आती है।
+
+Could you walk me through it?
+क्या आप मुझे स्टेप बाय स्टेप समझा सकते हैं?
+
+I am getting it.
+मुझे यह समझ आ रहा है।
+
+I am under the weather today.
+मैं आज अच्छा महसूस नहीं कर रहा हूं।
+
+Let's figure something out.
+चलिए कुछ हल निकालते हैं।
+
+there is a lot on my plate.
+अभी मैं बहुत बिजी हूं।
+
+How have you been lately?
+आजकल तुम कैसे हो?
+
+It's a piece of cake.
+यह बहुत आसान है।
+
+Don't be gross.
+घिनौनी बाते मत करो।
+
+Don't be coy.
+शर्माना बंद करो।
+
+I have had enough.
+बस बहुत हो गया है।
+
+Come what may.
+चाहे जो हो जाए।
+
+In broad daylight.
+दिन दहाड़े।
+
+More than enough.
+जरुरत से ज्यादा।
+
+As of now.
+फ़िलहाल।
+
+If possible.
+हो सके तो।
+
+On each everything.
+बात बात पर।
+
+Whenever it is seen.
+जब भी देखा जाता है।
+
+Get used to it.
+आदत डाल लो।
+
+

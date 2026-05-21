@@ -4,7 +4,7 @@ Sir, I want to tell something.
 
 2
 Yes, please tell me.
-हाँ, कृपया मुझे बताओ.
+हां बताइए
 
 3
 What happened?
@@ -12,11 +12,11 @@ What happened?
 
 4
 Sir, when I speak English, people laugh at me.
-सर, जब मैं अंग्रेजी बोलता हूं तो लोग हंसते हैं मैं.
+सर, जब मैं अंग्रेजी बोलता हूँ तो लोग मुझ पर हंसते हैं।
 
 5
 They smile and talk to each other.
-वे मुस्कुराते हैं और एक दूसरे से बात करते हैं।
+वे मुस्कुराते हैं और एक दूसरे से बातें करते हैं।
 
 6
 I feel very bad.
@@ -24,7 +24,7 @@ I feel very bad.
 
 7
 I feel I am not good.
-मुझे लगता है कि मैं अच्छा नहीं हूं.
+मुझे लगता है कि मैं अच्छा नहीं बोल रहा हूं।
 
 8
 My English is very weak.
@@ -36,7 +36,7 @@ Oh, I understand.
 
 10
 You feel sad because people laugh when you speak English.
-आप दुखी महसूस करते हैं क्योंकि जब आप हंसते हैं तो लोग हंसते हैं अंग्रेजी बोलो.
+आपको दुख होता है क्योंकि जब आप अंग्रेजी बोलते हैं तो लोग आप पर हंसते हैं।
 
 11
 But don't worry.
@@ -44,11 +44,11 @@ But don't worry.
 
 12
 It's okay to make mistakes.
-ग़लतियाँ करना ठीक है.
+गलती करना सामान्य बात है
 
 13
 Everyone makes mistakes when they learn a new language.
-जब वे सीखते हैं तो हर कोई गलतियाँ करता है नई भाषा.
+नई भाषा सीखते समय हर कोई गलती करता है।
 
 14
 You are learning and learning takes time.
@@ -56,19 +56,19 @@ You are learning and learning takes time.
 
 15
 But sir, they speak fast.
-लेकिन सर, वे तेजी से बोलते हैं।
+लेकिन सर, वे बहुत तेजी से बोलते हैं।
 
 16
 I don't understand them.
-मैं उन्हें नहीं समझता.
+मुझे उनकी बातें समझ नहीं आतीं।
 
 17
 When I try to talk, my words are wrong.
-जब मैं बात करने की कोशिश करता हूं तो मेरी बातें गलत हो जाती हैं.
+जब मैं बात करने की कोशिश करता हूं तो मेरे शब्द गलत हो जाती हैं.
 
 18
 My friends laugh and I feel nervous.
-मेरे दोस्त हँसते हैं और मैं घबरा जाता हूँ।
+मेरे दोस्त हँसते हैं और मुझे घबराहट महसूस होती है।
 
 19
 It's fine.
@@ -80,24 +80,29 @@ You are not alone.
 
 21
 Many students feel like you.
-कई छात्र आपके जैसा महसूस करते हैं।
+कई छात्रों को आपके जैसा ही महसूस होता है।
 
 22
 You only need more practice and confidence.
-आपको केवल और अधिक अभ्यास और आत्मविश्वास की आवश्यकता है.
+आपको बस अधिक अभ्यास और आत्मविश्वास की आवश्यकता है।
 
 23
 Let's practice together.
-आइए एक साथ अभ्यास करें।
+आइए साथ मिलकर अभ्यास करें।
 
 24
 Let's speak simple English, okay?
-आइए सरल अंग्रेजी बोलें, ठीक है?
+चलिए सरल अंग्रेजी में बात करते हैं, ठीक है?
 
 
 25
 Okay, sir.
 ठीक है सर.
+
+
+
+
+
 
 26
 We will use simple present tense today.
@@ -105,11 +110,11 @@ We will use simple present tense today.
 
 27
 We use simple present tense to talk about daily life, habits and routines.
-हम बात करने के लिए दैनिक जीवन में सरल वर्तमान काल का उपयोग करते हैं, आदतें और दिनचर्या।
+हम दैनिक जीवन के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं, आदतें और दिनचर्या।
 
 28
 For example, I say, I wake up at six o'clock.
-उदाहरण के लिए, मैं कहता हूं, मैं छह बजे उठता हूं.
+उदाहरण के लिए, मैं कहता हूँ कि मैं छह बजे उठता हूं.
 
 29
 That means I do it every day.
@@ -117,7 +122,7 @@ That means I do it every day.
 
 30
 You can say, I wake up at seven o'clock.
-आप कह सकते हैं, मैं सात बजे उठता हूं.
+आप कह सकते हैं कि मैं सात बजे उठता हूं।
 
 31
 Let's try.
@@ -125,19 +130,23 @@ Let's try.
 
 32
 I wake up at seven o'clock.
-मैं सात बजे उठता हूं.
+मैं सात बजे उठता हूं।
 
 33
 Very good.
-बहुत अच्छा।
+बहुत अच्छे।
+
+
+
+
 
 34
 Say it again slowly.
-इसे फिर धीरे से कहो.
+इसे फिर धीरे से कहो।
 
 35
 I wake up at seven o'clock.
-मैं सात बजे उठता हूं.
+मैं सात बजे उठता हूं।
 
 36
 Perfect.
@@ -145,11 +154,11 @@ Perfect.
 
 37
 See, you speak well.
-देखो, तुम अच्छा बोलते हो.
+देखिये आप अच्छा बोलते हैं।
 
 38
 Now let's add more sentences.
-अब और वाक्य जोड़ते हैं।
+अब आइए कुछ और वाक्य जोड़ते हैं।
 
 39
 After you wake up, what do you do?
@@ -157,7 +166,7 @@ After you wake up, what do you do?
 
 40
 I brush my teeth.
-मैं अपने दाँत ब्रश करता हूँ।
+मैं दांत ब्रश करता हूँ।
 
 41
 Good.
@@ -165,7 +174,7 @@ Good.
 
 42
 Say, I brush my teeth.
-कहो, मैं अपने दाँत ब्रश करता हूँ।
+कहो, मैं दांत ब्रश करता हूँ।।
 
 43
 I brush my teeth.
@@ -177,7 +186,7 @@ Nice.
 
 45
 Now say two sentences together.
-अब दो वाक्य एक साथ बोलें.
+अब दो वाक्यों को एक साथ बोलें।
 
 46
 I wake up at seven o'clock.
@@ -197,12 +206,12 @@ You are learning fast.
 
 50
 Let's continue.
-आगे है।
+चलो आगे बात करते हैं।
 
 51
 After you brush your teeth, what do you
 do?
-अपने दाँत ब्रश करने के बाद आप क्या करते हैं?
+दांत साफ करने के बाद आप क्या करते हैं?
 
 52
 I wash my face.
@@ -214,7 +223,7 @@ I take a shower.
 
 54
 Very good.
-बहुत अच्छा।
+बहुत अच्छे।
 
 55
 You can also say, I wash my face and take a shower.
@@ -230,7 +239,7 @@ I wash my face and take a shower.
 
 58
 Great job.
-अच्छा काम।
+बहुत अच्छा बोल रहे हो।
 
 59
 Remember, always speak slowly and clearly.
@@ -238,4 +247,4 @@ Remember, always speak slowly and clearly.
 
 60
 Don't be afraid.
-डरो मत.
+डरे नहीं।
