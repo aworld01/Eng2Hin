@@ -1,206 +1,510 @@
-﻿61
+﻿1
+Sir, I want to tell something.
+सर, मैं कुछ बताना चाहता हूं.
+
+2
+Yes, please tell me.
+हां बताइए
+
+3
+What happened?
+क्या हुआ?
+
+4
+Sir, when I speak English, people laugh at me.
+सर, जब मैं अंग्रेजी बोलता हूँ तो लोग मुझ पर हंसते हैं।
+
+5
+They smile and talk to each other.
+वे मुस्कुराते हैं और एक दूसरे से बातें करते हैं।
+
+6
+I feel very bad.
+मुझे बहुत बुरा लगता है।
+
+7
+I feel I am not good.
+मुझे लगता है कि मैं अच्छा नहीं बोल रहा हूं।
+
+8
+My English is very weak.
+मेरी अंग्रेजी बहुत कमजोर है.
+
+9
+Oh, I understand.
+ओह मैं समझा।
+
+10
+You feel sad because people laugh when you speak English.
+आपको दुख होता है क्योंकि जब आप अंग्रेजी बोलते हैं तो लोग आप पर हंसते हैं।
+
+11
+But don't worry.
+लेकिन घबराना नहीं।
+
+12
+It's okay to make mistakes.
+गलती करना सामान्य बात है
+
+13
+Everyone makes mistakes when they learn a new language.
+नई भाषा सीखते समय हर कोई गलती करता है।
+
+14
+You are learning and learning takes time.
+आप सीख रहे हैं और सीखने में समय लगता है।
+
+15
+But sir, they speak fast.
+लेकिन सर, वे बहुत तेजी से बोलते हैं।
+
+16
+I don't understand them.
+मुझे उनकी बातें समझ नहीं आतीं।
+
+17
+When I try to talk, my words are wrong.
+जब मैं बात करने की कोशिश करता हूं तो मेरे शब्द गलत हो जाती हैं.
+
+18
+My friends laugh and I feel nervous.
+मेरे दोस्त हँसते हैं और मुझे घबराहट महसूस होती है।
+
+19
+It's fine.
+ठीक है।
+
+20
+You are not alone.
+आप अकेले नहीं हैं।
+
+21
+Many students feel like you.
+कई छात्रों को आपके जैसा ही महसूस होता है।
+
+22
+You only need more practice and confidence.
+आपको बस अधिक अभ्यास और आत्मविश्वास की आवश्यकता है।
+
+23
+Let's practice together.
+आइए साथ मिलकर अभ्यास करें।
+
+24
+Let's speak simple English, okay?
+चलिए सरल अंग्रेजी में बात करते हैं, ठीक है?
+
+25
+Okay, sir.
+ठीक है सर.
+
+26
+We will use simple present tense today.
+आज हम सरल वर्तमान काल का प्रयोग करेंगे।
+
+27
+We use simple present tense to talk about daily life, habits and routines.
+हम दैनिक जीवन के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं, आदतें और दिनचर्या।
+
+28
+For example, I say, I wake up at six o'clock.
+उदाहरण के लिए, मैं कहता हूँ कि मैं छह बजे उठता हूं.
+
+29
+That means I do it every day.
+इसका मतलब है कि मैं इसे हर दिन करता हूं।
+
+30
+You can say, I wake up at seven o'clock.
+आप कह सकते हैं कि मैं सात बजे उठता हूं।
+
+31
+Let's try.
+आओ कोशिश करते हैं।
+
+32
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं।
+
+33
+Very good.
+बहुत अच्छे।
+
+34
+Say it again slowly.
+इसे फिर धीरे से कहो।
+
+35
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं।
+
+36
+Perfect.
+उत्तम।
+
+37
+See, you speak well.
+देखिये आप अच्छा बोलते हैं।
+
+38
+Now let's add more sentences.
+अब आइए कुछ और वाक्य जोड़ते हैं।
+
+39
+After you wake up, what do you do?
+जागने के बाद आप क्या करते हैं?
+
+40
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+41
+Good.
+अच्छा।
+
+42
+Say, I brush my teeth.
+कहो, मैं दांत ब्रश करता हूँ।।
+
+43
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+44
+Nice.
+अच्छा।
+
+45
+Now say two sentences together.
+अब दो वाक्यों को एक साथ बोलें।
+
+46
+I wake up at seven o'clock.
+मैं सात बजे उठता हूं.
+
+47
+I brush my teeth.
+मैं दांत ब्रश करता हूँ।
+
+48
+Excellent.
+उत्कृष्ट।
+
+49
+You are learning fast.
+आप तेजी से सीख रहे हैं.
+
+50
+Let's continue.
+चलो आगे बात करते हैं।
+
+51
+After you brush your teeth, what do you
+do?
+दांत साफ करने के बाद आप क्या करते हैं?
+
+52
+I wash my face.
+मैं अपने चेहरे को धोता हुँ।
+
+53
+I take a shower.
+मैं स्नान कर लेता हूँ।
+
+54
+Very good.
+बहुत अच्छे।
+
+55
+You can also say, I wash my face and take a shower.
+आप ये भी कह सकते हैं, मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+56
+Try it.
+इसे अजमाएं।
+
+57
+I wash my face and take a shower.
+मैं अपना चेहरा धोता हूं और स्नान करता हूं।
+
+58
+Great job.
+बहुत अच्छा बोल रहे हो।
+
+59
+Remember, always speak slowly and clearly.
+याद रखें, हमेशा धीरे और स्पष्ट रूप से बोलें।
+
+60
+Don't be afraid.
+डरे नहीं।
+
+61
 Let's learn more.
+आइए और अधिक जानें।
 
 62
 After the shower, what do you do?
+नहाने के बाद आप क्या करते हैं?
 
 63
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 64
-Yes.
+हाँ
 
 65
-I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 66
 What do you eat for breakfast?
+तुम्हारा नाश्ता में क्या खाते हो?
 
 67
 I eat eggs and bread.
+मैं अंडे और ब्रेड खाता हूँ।
 
 68
 Sometimes I drink milk.
+कभी-कभी मैं दूध पीता हूँ।
 
 69
 Perfect.
+उत्तम।
 
 70
 You are using the simple present tense
 correctly.
+आप सरल वर्तमान काल का प्रयोग सही ढंग से कर रहे हैं।
 
 71
 I eat eggs and bread.
+मैं अंडे और ब्रेड खाता हूँ।
 
 72
 I drink milk.
+मैं दूध पीता हूँ।
 
 73
 That's very good.
+बहुत अच्छा है।
 
 74
 Thank you, sir.
+धन्यवाद सर।
 
 75
 Now, what do you do after breakfast?
+अब, नाश्ते के बाद आप क्या करते हैं?
 
 76
 I go to school.
+मैं स्कूल जाता हूँ।
 
 77
 Nice.
+अच्छा।
 
 78
-You can say, I go to school at eight o
-'clock.
+You can say, I go to school at eight o'clock.
+आप कह सकते हैं, मैं आठ बजे स्कूल जाता हूँ।
 
 79
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 80
 Well done.
+बहुत अच्छा।
 
 81
 And what do you do at school?
+और आप स्कूल में क्या करते हैं?
 
 82
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 83
 I write.
+मैं लिखता हूं।
 
 84
 I read.
+मैं पढ़ता हूं
 
 85
 I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
 
 86
 Excellent.
+उत्कृष्ट।
 
 87
 You are speaking very well.
+आप बहुत अच्छा बोल रहे हैं।
 
 88
 Let's make a small paragraph.
+चलिए एक छोटा सा पैराग्राफ बनाते हैं।
 
 89
 Listen to me first.
+पहले मेरी बात सुनो।
 
 90
 Then repeat after me.
+फिर मेरे बाद दोहराओ।
 
 91
 I wake up at seven o'clock.
+मैं सात बजे जगता हूं।
 
 92
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 93
 I wash my face and take a shower.
+मैं अपना चेहरा धोता हूँ और स्नान करता हूँ।
 
 94
 I eat breakfast.
+मैं नाश्ता करता हूं।
 
 95
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 96
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 97
 I talk to my friends.
+मैं आठ बजे स्कूल जाता हूँ।
 
 98
 I wake up at seven o'clock.
+मैं सात बजे जगता हूं।
 
 99
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 100
 I wash my face and take a shower.
+मैं अपना चेहरा धोता हूँ और स्नान करता हूँ।
 
 101
 I eat breakfast.
+मैं नाश्ता करता हूं।
 
 102
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 103
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 104
 I talk to my friends.
+मैं आठ बजे स्कूल जाता हूँ।
 
 105
 Very good.
+बहुत अच्छा।
 
 106
 You spoke all sentences clearly.
+आपने सभी वाक्य स्पष्ट रूप से बोले।
 
 107
 See?
+देखो
 
 108
 You can speak English.
+आप अंग्रेजी बोल सकते हैं
 
 109
 You only need to practice more.
+आपको बस अधिक अभ्यास करने की आवश्यकता है।
 
 110
 But sir, sometimes I forget words.
+लेकिन सर, कभी-कभी मैं शब्द भूल जाता हूँ।
 
 111
 It's okay.
+ठीक है।
 
 112
 You can use simple words.
+आप सरल शब्दों का प्रयोग कर सकते हैं।
 
 113
 If you forget a word, don't stop.
+अगर आप शब्द भूल जाते हैं तो रुकें नहीं।
 
 114
 Use another easy word.
+कोई दूसरा आसान शब्द इस्तेमाल करें।
 
 115
 Speak slowly.
+धीरे बोलो।
 
 116
-The goal is to communicate not to be
-perfect.
+The goal is to communicate not to be perfect.
+लक्ष्य संवाद स्थापित करना है, परिपूर्ण होना नहीं।
 
 117
 Yes, sir.
+जी सर।
 
 118
 I understand.
+मैं समझता हूँ
 
 119
 Let's practice more daily activities.
+आइए प्रतिदिन अधिक सक्रियता का अभ्यास करें।
 
 120
 What do you do in the afternoon?
+आप दोपहर को क्या करते हैं?
 
 121
 I come home.
+मैं घर आता हूं।
 
 122
 I eat lunch.
+मैं दोपहर का खाना खाता हूं।
 
 123
 Very good.
+बहुत अच्छे।
 
 124
 You can say, I come home at one o'clock.
+आप कह सकते हैं, मैं एक बजे घर आता हूँ।
 
 125
 I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का खाना खाता हूं।
 
 126
 I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
 
 127
 I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का खाना खाता हूं।
 
 128
 Excellent.
