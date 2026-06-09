@@ -5,3 +5,17 @@ could be: हो सकता था
 would be: होगा
 will be: होगा ही
 must be: पक्का होगा
+
+
+My name is x.
+मेरा नाम एक्स है।
+
+What is your name?
+आपका नाम क्या है?
+
+I have a car.
+मेरे पास एक गाड़ी है।
+
+I have a new car.
+मेरे पास एक नई गाड़ी है।
+
