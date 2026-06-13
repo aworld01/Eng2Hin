@@ -40,11 +40,11 @@ You feel sad because people laugh when you speak English.
 
 11
 But don't worry.
-लेकिन घबराना नहीं।
+लेकिन घबरावो नहीं।
 
 12
 It's okay to make mistakes.
-गलती करना सामान्य बात है
+गलती करना सामान्य बात है।
 
 13
 Everyone makes mistakes when they learn a new language.
@@ -64,7 +64,7 @@ I don't understand them.
 
 17
 When I try to talk, my words are wrong.
-जब मैं बात करने की कोशिश करता हूं तो मेरे शब्द गलत हो जाती हैं.
+जब मैं बात करने की कोशिश करता हूं तो मेरे शब्द गलत हो जाते हैं.
 
 18
 My friends laugh and I feel nervous.
@@ -104,7 +104,7 @@ We will use simple present tense today.
 
 27
 We use simple present tense to talk about daily life, habits and routines.
-हम दैनिक जीवन के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं, आदतें और दिनचर्या।
+हम दैनिक जीवन, आदतें, और दिनचर्या के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं।
 
 28
 For example, I say, I wake up at six o'clock.
@@ -120,7 +120,7 @@ You can say, I wake up at seven o'clock.
 
 31
 Let's try.
-आओ कोशिश करते हैं।
+आओ कोशिश करे।
 
 32
 I wake up at seven o'clock.
@@ -134,7 +134,7 @@ Very good.
 Say it again slowly.
 इसे फिर धीरे से कहो।
 
-35
+35,
 I wake up at seven o'clock.
 मैं सात बजे उठता हूं।
 
@@ -199,8 +199,7 @@ Let's continue.
 चलो आगे बात करते हैं।
 
 51
-After you brush your teeth, what do you
-do?
+After you brush your teeth, what do you do?
 दांत साफ करने के बाद आप क्या करते हैं?
 
 52
@@ -209,7 +208,7 @@ I wash my face.
 
 53
 I take a shower.
-मैं स्नान कर लेता हूँ।
+मैं स्नान करता हूँ।
 
 54
 Very good.
@@ -229,7 +228,7 @@ I wash my face and take a shower.
 
 58
 Great job.
-बहुत अच्छा बोल रहे हो।
+बहुत अच्छा।
 
 59
 Remember, always speak slowly and clearly.
@@ -237,11 +236,17 @@ Remember, always speak slowly and clearly.
 
 60
 Don't be afraid.
-डरे नहीं।
+डरो नहीं।
 
 61
 Let's learn more.
-आइए और अधिक जानें।
+आइए और सिखे।
+
+
+
+
+
+
 
 62
 After the shower, what do you do?
