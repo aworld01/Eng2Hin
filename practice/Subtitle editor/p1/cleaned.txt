@@ -188,7 +188,7 @@ I brush my teeth.
 
 48
 Excellent.
-उत्कृष्ट।
+बहुत बढ़िया।
 
 49
 You are learning fast.
@@ -345,7 +345,7 @@ I talk to my friends.
 
 86
 Excellent.
-उत्कृष्ट।
+बहुत बढ़िया।
 
 87
 You are speaking very well.
@@ -389,7 +389,7 @@ I study English.
 
 97
 I talk to my friends.
-मैं आठ बजे स्कूल जाता हूँ।
+मैं अपने दोस्तों से बात करता हूँ।
 
 98
 I wake up at seven o'clock.
@@ -417,11 +417,11 @@ I study English.
 
 104
 I talk to my friends.
-मैं आठ बजे स्कूल जाता हूँ।
+मैं अपने दोस्तों से बात करता हूँ।
 
 105
 Very good.
-बहुत अच्छा।
+बहुत अच्छे।
 
 106
 You spoke all sentences clearly.
@@ -501,7 +501,7 @@ You can say, I come home at one o'clock.
 
 125
 I eat lunch with my family.
-मैं अपने परिवार के साथ दोपहर का खाना खाता हूं।
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
 
 126
 I come home at one o'clock.
@@ -509,339 +509,432 @@ I come home at one o'clock.
 
 127
 I eat lunch with my family.
-मैं अपने परिवार के साथ दोपहर का खाना खाता हूं।
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
 
 128
 Excellent.
+बहुत बढ़िया।
 
 129
 After lunch, what do you do?
+दोपहर के भोजन के बाद आप क्या करते हैं?
 
 130
 I rest.
+मैं आराम करता हूं।
 
 131
 I watch TV.
+मैं टीवी देखता हूं।
 
 132
 Perfect.
+उत्तम।
 
 133
 You can also say, I take a rest.
+आप यह भी कह सकते हैं, मैं आराम करता हूँ।
 
 134
 I watch TV.
+मैं टीवी देखता हूं।
 
 135
 Try again.
+फिर से कोशिश करो।
 
 136
 I take a rest.
+मैं आराम करता हूँ।
 
 137
 I watch TV.
+मैं टीवी देखता हूं।
 
 138
 Very nice.
+बहुत अच्छा।
 
 139
 Let's talk about the evening.
+चलिए शाम के बारे में बात करते हैं।
 
 140
 What do you do then?
+तो फिर आप क्या करते हो?
 
 141
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 142
 I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
 
 143
 Great sentences.
+महान वाक्य.
 
 144
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 145
 I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
 
 146
-You are using the simple present tense
-correctly every time.
+You are using the simple present tense correctly every time.
+आप हर बार सरल वर्तमान काल का सही प्रयोग कर रहे हैं।
 
 147
 Thank you, sir.
+शुक्रिया सर।
 
 148
 I feel happy now.
+अब मुझे खुशी हो रही है।
 
 149
 That's good.
+अच्छी बात है।
 
 150
 You are improving.
+आपमें सुधार हो रहा है।
 
 151
 Remember, practice every day.
+याद रखें, प्रतिदिन अभ्यास करें।
 
 152
 Speak English at home, even alone.
+घर पर, अकेले में भी, अंग्रेजी बोलें।
 
 153
 Look in the mirror and talk.
+आईने में देख कर बात करो।
 
 154
 You can say, I wake up.
+आप कह सकते हैं, मैं जाग जाता हूँ।
 
 155
 I eat.
+मेँ खाता हूँ।
 
 156
 I go to work.
+मैं काम पर जाता हूँ।
 
 157
 Practice makes you confident.
+अभ्यास से आत्मविश्वास बढ़ता है।
 
 158
-Sir, sometimes I want to talk,
-but my mind stops.
+Sir, sometimes I want to talk, but my mind stops.
+सर, कभी-कभी मेरा बोलने का मन करता है, लेकिन मेरा दिमाग काम करना बंद कर देता है।
 
 159
 I forget what to say.
+क्या बोलना है मैं भूल जाता हूं।
 
 160
 That happens to everyone.
+ऐसा सबके साथ होता है।
 
 161
 You can write your sentences first.
+आप पहले अपने वाक्य लिख सकते हैं।
 
 162
 Read them aloud.
+फिर उसे ज़ोर से पढ़ सकते हैं।
 
 163
 When you read, listen to your voice.
+पढ़ते समय अपनी आवाज़ को सुनें।
 
 164
-Try to repeat the same sentences every
-day.
+Try to repeat the same sentences every day.
+हर दिन उन्हीं वाक्यों को दोहराने का प्रयास करें।
 
 165
 Slowly, you will remember without reading.
+धीरे-धीरे, आपको बिना पढ़े ही याद आ जाएगा।
 
 166
 I will try.
+मैं कोशिश करूँगा।
 
 167
 Good.
+अच्छा।
 
 168
 Also, watch simple English videos.
+साथ ही, सरल अंग्रेजी के वीडियो भी देखें।
 
 169
 Listen and repeat.
+सुनो और दोहराओ।
 
 170
 Don't be afraid of people laugh.
+लोगों के हंसने से मत डरो।
 
 171
-They may laugh, but you are learning
-something good.
+They may laugh, but you are learning something good.
+वे भले ही हंसें, लेकिन आप कुछ अच्छा सीख रहे हैं।
 
 172
-One day, they will stop laughing and start
-listening to you.
+One day, they will stop laughing and start listening to you.
+एक दिन वे हंसना बंद कर देंगे और आपकी बात सुनने लगेंगे।
 
 173
 Thank you, sir.
+धन्यवाद सर।
 
 174
 Your words make me feel strong.
+आपके शब्दों से मुझे शक्ति मिलती है।
 
 175
 That's my job.
+यह मेरा काम है।
 
 176
 I am proud of you.
+मुझे आप पर गर्व है।
 
 177
 You are brave to speak.
 
 178
-Now, let's say all your daily routine
-again.
+Now, let's say all your daily routine again.
 
 179
 From morning to night.
+सुबह से रात तक।
 
 180
 Okay, sir.
+ठीक है सर।
 
 181
 I wake up at 7 o'clock.
 
 182
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 183
 I wash my face and take a shower.
+मैं अपना चेहरा धोता हूं और स्नान करता हूं।
 
 184
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 185
 I go to school at 8 o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 186
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 187
 I talk to my friends.
+मैं अपने दोस्तों से बात करता हूँ।
 
 188
 I come home at 1 o'clock.
+मैं 1 बजे घर आता हूँ।
 
 189
 I eat lunch with my family.
+मैं अपने परिवार के साथ दोपहर का भोजन करता हूँ।
 
 190
 I take a rest.
+मैं आराम करता हूँ।
 
 191
 I watch TV.
+मैं टीवी देखता हूं।
 
 192
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 193
 I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
 
 194
 Excellent.
+बहुत बढ़िया।
 
 195
 And what do you do at night?
+और आप रात में क्या करते हैं?
 
 196
 I eat dinner.
+मैं रात का भोजन करता हूं।
 
 197
 I read a book.
+मैं किताब पढ़ता हूं।
 
 198
 I sleep at 10 o'clock.
+मैं रात 10 बजे सोता हूँ।
 
 199
 Wonderful.
+आश्चर्यजनक।
 
 200
 That is your full daily routine.
+यह आपकी पूरी दैनिक दिनचर्या है।
 
 201
 You have spoken almost perfectly.
+आपने लगभग बिल्कुल सही बोला है।
 
 202
-Now, if you keep practicing this every
-day, your English will become strong.
+Now, if you keep practicing this everyday, your English will become strong.
+अब, अगर आप इसका रोजाना अभ्यास करते रहेंगे, तो आपकी अंग्रेजी मजबूत हो जाएगी।
 
 203
 I will practice, sir.
+मैं अभ्यास करूंगा, सर।
 
 204
 I will not be afraid anymore.
+मैं अब और नहीं डरूंगा।
 
 205
 That's the spirit.
+यह हुई न बात।
 
 206
-Just remember, English is not about being
-perfect.
+Just remember, English is not about being perfect.
+बस याद रखें, अंग्रेजी में निपुण होना जरूरी नहीं है।
 
 207
 It is about communication.
+यह संचार के लिए है।
 
 208
 Speak slowly.
+धीरे बोलो।
 
 209
 Use simple words.
+सरल शब्दों का प्रयोग करें.
 
 210
 And repeat every day.
+और इसे हर दिन दोहराएं।
 
 211
-Thank you for teaching me in an easy way,
-sir.
+Thank you for teaching me in an easy way, sir.
+मुझे सरल तरीके से सिखाने के लिए धन्यवाद, सर।
 
 212
 You're welcome.
+आपका स्वागत है।
 
 213
 I am happy to see your confidence.
+आपका आत्मविश्वास देखकर मुझे खुशी हुई।
 
 214
 Keep smiling.
+मुस्कुराते रहो.
 
 215
 Keep speaking.
+बोलते रहो.
 
 216
 And keep learning.
+और सीखते रहो.
 
 217
 I will, sir.
+जी हां, सर।
 
 218
 I like English now.
+मुझे अब अंग्रेजी पसंद है।
 
 219
 It feels easy when you explain like this.
+इस तरह समझाने पर यह आसान लगता है।
 
 220
 That's wonderful.
+यह तो बहुत ही अच्छी बात है।
 
 221
 Remember, you can do it.
+याद रखो, तुम यह कर सकते हो।
 
 222
 Speak English with joy and without fear.
+अंग्रेजी खुशी से और बिना किसी डर के बोलें।
 
 223
-You are improving every minute you
-practice.
+You are improving every minute you practice.
+आप हर मिनट अभ्यास करके बेहतर हो रहे हैं।
 
 224
 Yes, sir.
+जी सर।
 
 225
 I will speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलूंगा।
 
 226
 Good.
+अच्छा।
 
 227
-Now, let's practice one more time
-together.
+Now, let's practice one more time together.
+अब चलिए एक बार फिर साथ में अभ्यास करते हैं।
 
 228
 Say after me, I speak English every day.
+मेरे साथ बोलिए, मैं हर दिन अंग्रेजी बोलता हूँ।
 
 229
 I practice every day.
+मैं प्रतिदिन अभ्यास करता हूँ।
 
 230
 I learn every day.
+मैं प्रतिदिन सीखता हूँ।
 
 231
 I speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलता हूँ।
 
 232
 I practice every day.
+मैं प्रतिदिन अभ्यास करता हूँ।
 
 233
 I learn every day.
+मैं प्रतिदिन सीखता हूँ।
 
 234
 Excellent.
+बहुत बढ़िया।
 
 235
 That's how you grow.
@@ -935,12 +1028,14 @@ Do you understand?
 
 263
 Yes, sir.
+जी सर।
 
 264
 We use the first form, right?
 
 265
 Very good.
+बहुत अच्छे।
 
 266
 We use the first form of the verb with I,
@@ -983,9 +1078,11 @@ Say after me, I eat breakfast.
 
 278
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 279
 Good.
+अच्छा।
 
 280
 Now, change I to she.
@@ -1022,6 +1119,7 @@ He plays football.
 
 291
 Excellent.
+बहुत बढ़िया।
 
 292
 You are getting it right.
@@ -1053,12 +1151,14 @@ Like study becomes studies.
 
 301
 Yes, sir.
+जी सर।
 
 302
 It is easy when you explain it.
 
 303
 Good.
+अच्छा।
 
 304
 Let's continue with some daily routine
@@ -1091,6 +1191,7 @@ She brushes her teeth.
 
 313
 Excellent.
+बहुत बढ़िया।
 
 314
 I go to school.
@@ -1103,6 +1204,7 @@ She goes to school.
 
 317
 Wonderful.
+आश्चर्यजनक।
 
 318
 You are speaking very clearly.
@@ -1131,12 +1233,14 @@ school?
 
 325
 I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
 
 326
 Sometimes I make tea.
 
 327
 Very good.
+बहुत अच्छे।
 
 328
 What about your father?
@@ -1152,6 +1256,7 @@ He drinks tea.
 
 332
 Excellent.
+बहुत बढ़िया।
 
 333
 You are using does correctly.
@@ -1204,6 +1309,7 @@ That means does not.
 
 349
 Yes, sir.
+जी सर।
 
 350
 I understand now.
@@ -1229,12 +1335,14 @@ I take a shower.
 
 357
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 358
 I go to school.
 
 359
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 360
 I play with my friends.
@@ -1250,9 +1358,11 @@ I rest.
 
 364
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 365
 I watch TV.
+मैं टीवी देखता हूं।
 
 366
 I go to bed at ten o'clock.
@@ -1271,12 +1381,14 @@ I take a shower.
 
 371
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 372
 I go to school.
 
 373
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 374
 I play with my friends.
@@ -1292,15 +1404,18 @@ I rest.
 
 378
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 379
 I watch TV.
+मैं टीवी देखता हूं।
 
 380
 I go to bed at ten o'clock.
 
 381
 Wonderful.
+आश्चर्यजनक।
 
 382
 That was clear and correct.
@@ -1345,6 +1460,7 @@ When do you go to school?
 
 395
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 396
 When do you come home?
@@ -1357,15 +1473,19 @@ What do you do in the evening?
 
 399
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 400
 I help my mother.
+मैं अपनी माँ की मदद करता हूँ।
 
 401
 I watch TV.
+मैं टीवी देखता हूं।
 
 402
 Very good.
+बहुत अच्छे।
 
 403
 This is how you build small English
@@ -1377,6 +1497,7 @@ to anyone.
 
 405
 Yes, sir.
+जी सर।
 
 406
 I can use them to talk with my friends
@@ -1405,6 +1526,7 @@ I will try that.
 
 414
 Good.
+अच्छा।
 
 415
 Now let's add a few new daily actions.
@@ -1426,9 +1548,11 @@ I talk to my teacher.
 
 421
 I read a book.
+मैं किताब पढ़ता हूं।
 
 422
 I read a book.
+मैं किताब पढ़ता हूं।
 
 423
 I write in my notebook.
@@ -1450,6 +1574,7 @@ I play with my little brother.
 
 429
 Very good.
+बहुत अच्छे।
 
 430
 All these are simple present tense
@@ -1460,6 +1585,7 @@ They are about things we do every day.
 
 432
 Yes, sir.
+जी सर।
 
 433
 I understand the simple present tense now.
@@ -1540,12 +1666,14 @@ Focus on being clear, not fast.
 
 457
 Yes, sir.
+जी सर।
 
 458
 I will do that.
 
 459
 Good.
+अच्छा।
 
 460
 Keep using simple sentences.
@@ -1574,6 +1702,7 @@ now.
 
 468
 Yes, sir.
+जी सर।
 
 469
 Short sentences help me feel more
@@ -1598,6 +1727,7 @@ tense.
 
 475
 That's very good.
+बहुत अच्छा है।
 
 476
 When you use English every day,
@@ -1657,6 +1787,7 @@ I want to learn that.
 
 493
 Good.
+अच्छा।
 
 494
 First, when you meet someone, you can say,
@@ -1724,9 +1855,11 @@ I am a student.
 
 515
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 516
 Excellent.
+बहुत बढ़िया।
 
 517
 See, you used simple present tense
@@ -1734,6 +1867,7 @@ correctly.
 
 518
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 519
 It tells what you do every day.
@@ -1793,6 +1927,7 @@ what you like.
 
 537
 Yes, sir.
+जी सर।
 
 538
 I understand now.
@@ -1836,6 +1971,7 @@ I am a student.
 
 551
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 552
 That's nice.
@@ -1848,12 +1984,14 @@ I study at city school.
 
 555
 Very good.
+बहुत अच्छे।
 
 556
 What time do you go to school?
 
 557
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 558
 And when do you come home?
@@ -1863,6 +2001,7 @@ I come home at one o'clock.
 
 560
 Good.
+अच्छा।
 
 561
 What do you do after school?
@@ -1872,12 +2011,14 @@ I eat lunch.
 
 563
 I take a rest.
+मैं आराम करता हूँ।
 
 564
 Then I do my homework.
 
 565
 Excellent.
+बहुत बढ़िया।
 
 566
 What do you like to do in the evening?
@@ -1945,9 +2086,11 @@ I go to school.
 
 586
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 587
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 588
 I have many friends.
@@ -1957,6 +2100,7 @@ I have many friends.
 
 590
 Good.
+अच्छा।
 
 591
 You can use these short patterns to make
@@ -1976,6 +2120,7 @@ I have a brother.
 
 596
 Yes, sir.
+जी सर।
 
 597
 I can make many now.
@@ -1988,12 +2133,14 @@ I go to the market.
 
 600
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 601
 I have a sister.
 
 602
 Excellent.
+बहुत बढ़िया।
 
 603
 You are using them correctly.
@@ -2048,6 +2195,7 @@ Yes, I do.
 
 619
 Very good.
+बहुत अच्छे।
 
 620
 Now you are making questions.
@@ -2079,6 +2227,7 @@ continue.
 
 628
 Yes, sir.
+जी सर।
 
 629
 I will try to talk more.
@@ -2108,9 +2257,11 @@ My brother studies in school.
 
 637
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 638
 Excellent.
+बहुत बढ़िया।
 
 639
 Now, let's add some more details.
@@ -2129,6 +2280,7 @@ He comes home at six o'clock.
 
 644
 Good.
+अच्छा।
 
 645
 What does your mother do in the afternoon?
@@ -2138,6 +2290,7 @@ She cooks lunch and cleans the house.
 
 647
 Very good.
+बहुत अच्छे।
 
 648
 You are using does and s endings
@@ -2188,6 +2341,7 @@ She watches TV.
 
 663
 Very good.
+बहुत अच्छे।
 
 664
 These are simple but useful sentences.
@@ -2197,6 +2351,7 @@ You can talk about anyone using these.
 
 666
 Yes, sir.
+जी सर।.
 
 667
 I can talk about my family, my friends,
@@ -2256,12 +2411,14 @@ Not he doesn't likes.
 
 685
 Yes, sir.
+जी सर।
 
 686
 I understand.
 
 687
 Good.
+अच्छा।
 
 688
 Let's add a few small dialogues now.
@@ -2286,6 +2443,7 @@ I brush my teeth.
 
 695
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 696
 Where do you go after breakfast?
@@ -2301,6 +2459,7 @@ I study English and listen to songs.
 
 700
 Excellent.
+बहुत बढ़िया।
 
 701
 You are talking naturally now.
@@ -2333,6 +2492,7 @@ your habits, your family, and your likes.
 
 710
 Yes, sir.
+जी सर।
 
 711
 I can feel I am learning.
@@ -2350,6 +2510,7 @@ Every day you can start your morning with
 
 715
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 716
 I go to school.
@@ -2362,6 +2523,7 @@ I come home.
 
 719
 I watch TV.
+मैं टीवी देखता हूं।
 
 720
 That will make your English natural.
@@ -2374,6 +2536,7 @@ I will speak every day and not be shy.
 
 723
 That's very good.
+बहुत अच्छा है।
 
 724
 Keep going and you will become more
@@ -2539,6 +2702,7 @@ I brush my teeth.
 
 774
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 775
 I go to school.
@@ -2554,12 +2718,14 @@ I brush my teeth.
 
 779
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 780
 I go to school.
 
 781
 Good.
+अच्छा।
 
 782
 Simple and clear.
@@ -2573,6 +2739,7 @@ correctly in the simple present tense.
 
 785
 Yes, sir.
+जी सर।
 
 786
 I can say these sentences easily.
@@ -2596,12 +2763,15 @@ I eat lunch.
 
 792
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 793
 I take a rest.
+मैं आराम करता हूँ।
 
 794
 I watch TV.
+मैं टीवी देखता हूं।
 
 795
 I sleep.
@@ -2614,18 +2784,22 @@ I eat lunch.
 
 798
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 799
 I take a rest.
+मैं आराम करता हूँ।
 
 800
 I watch TV.
+मैं टीवी देखता हूं।
 
 801
 I sleep.
 
 802
 Very good.
+बहुत अच्छे।
 
 803
 You see, you can describe your full day.
@@ -2636,6 +2810,7 @@ day, you can answer easily.
 
 805
 Yes, sir.
+जी सर।
 
 806
 I can say, I wake up early.
@@ -2657,6 +2832,7 @@ I eat lunch.
 
 812
 I watch TV.
+मैं टीवी देखता हूं।
 
 813
 I sleep.
@@ -2734,6 +2910,7 @@ It rains in summer.
 
 836
 Good.
+अच्छा।
 
 837
 Now make a few sentences yourself.
@@ -2749,6 +2926,7 @@ It shines in the sky.
 
 841
 Excellent.
+बहुत बढ़िया।
 
 842
 You used S correctly.
@@ -2807,6 +2985,7 @@ He goes.
 
 860
 Wonderful.
+आश्चर्यजनक।
 
 861
 You are learning fast.
@@ -2817,6 +2996,7 @@ break it into small steps.
 
 863
 Yes, sir.
+जी सर।
 
 864
 I feel more confident now.
@@ -2849,6 +3029,7 @@ Yes, she does.
 
 873
 Very good.
+बहुत अच्छे।
 
 874
 Let's try negative sentences, too.
@@ -2877,12 +3058,14 @@ So he doesn't like, not he doesn't like.
 
 882
 Yes, sir.
+जी सर।
 
 883
 I will remember that.
 
 884
 Good.
+अच्छा।
 
 885
 Now let's use this in a small
@@ -2926,6 +3109,7 @@ I go to school.
 
 898
 Excellent.
+बहुत बढ़िया।
 
 899
 You just had a small talk about your daily
@@ -3038,6 +3222,7 @@ For example, write, I go to school.
 
 933
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 934
 I talk with my teacher.
@@ -3047,12 +3232,14 @@ Writing helps you remember.
 
 936
 Yes, sir.
+जी सर।
 
 937
 I like writing, too.
 
 938
 Wonderful.
+आश्चर्यजनक।
 
 939
 Keep writing and reading aloud.
@@ -3180,6 +3367,7 @@ I go to school.
 
 975
 I study English.
+मैं अंग्रेजी पढ़ता हुँ।
 
 976
 Those are perfect sentences.
@@ -3228,9 +3416,11 @@ I wash my face.
 
 990
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 991
 Excellent.
+बहुत बढ़िया।
 
 992
 What do you eat for breakfast?
@@ -3261,6 +3451,7 @@ I play with my friends.
 
 1001
 Very good.
+बहुत अच्छे।
 
 1002
 You are making perfect daily routine
@@ -3284,6 +3475,7 @@ Try it.
 
 1008
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 1009
 I study English in science.
@@ -3293,12 +3485,14 @@ I play with my friends during break time.
 
 1011
 Wonderful.
+आश्चर्यजनक।
 
 1012
 You see how fluent you sound now?
 
 1013
 Yes, sir.
+जी सर।
 
 1014
 When I speak slowly, I can say everything
@@ -3326,12 +3520,14 @@ Then I take a rest.
 
 1021
 I do my homework.
+मैं अपना होमवर्क करता हूं।
 
 1022
 After that, I help my mother.
 
 1023
 Excellent.
+बहुत बढ़िया।
 
 1024
 You are using verbs correctly in the
@@ -3348,6 +3544,7 @@ They show what you do every day.
 
 1028
 Yes, sir.
+जी सर।
 
 1029
 I understand now.
@@ -3380,6 +3577,7 @@ I like to talk with my friends.
 
 1038
 Very good.
+बहुत अच्छे।
 
 1039
 And what don't you like to do?
@@ -3427,6 +3625,7 @@ He drinks tea in the morning.
 
 1053
 Very good.
+बहुत अच्छे।
 
 1054
 Tell me about your mother.
@@ -3442,6 +3641,7 @@ She watches TV in the evening.
 
 1058
 Excellent.
+बहुत बढ़िया।
 
 1059
 And your brother?
@@ -3471,12 +3671,14 @@ Works, drives, plays, studies.
 
 1067
 Yes, sir.
+जी सर।
 
 1068
 I remember that rule now.
 
 1069
 Good.
+अच्छा।
 
 1070
 Now let's make it more fun.
@@ -3496,6 +3698,7 @@ It should be he plays football.
 
 1075
 Excellent.
+बहुत बढ़िया।
 
 1076
 She go to school.
@@ -3517,6 +3720,7 @@ They like tea.
 
 1082
 Very good.
+बहुत अच्छे।
 
 1083
 You are becoming confident.
@@ -3555,6 +3759,7 @@ What time do you go to school?
 
 1094
 I go to school at eight o'clock.
+मैं आठ बजे स्कूल जाता हूँ।
 
 1095
 Do you like reading books?
@@ -3608,6 +3813,7 @@ For example, I wake up.
 
 1111
 I eat breakfast.
+मैंनें नाश्ता करता हूँ।
 
 1112
 When you speak again and again,
@@ -3615,6 +3821,7 @@ your mouth remembers the sound.
 
 1113
 Yes, sir.
+जी सर।
 
 1114
 When I repeat, it feels easier.
@@ -3679,6 +3886,7 @@ You are learning for yourself.
 
 1132
 Yes, sir.
+जी सर।
 
 1133
 I want to speak English so I can talk to
@@ -3790,15 +3998,17 @@ Smile, be confident and enjoy the process.
 
 1166
 Yes, sir.
+जी सर।
 
 1167
 I feel more confident now.
+अब मुझे पहले से ज्यादा आत्मविश्वास महसूस हो रहा है।
 
 1168
-I will speak English every day no matter
-what people say.
+I will speak English every day no matter what people say.
+लोग चाहे कुछ भी कहें, मैं हर दिन अंग्रेजी बोलूंगा।
 
 1169
-That's the best promise you can make to
-yourself.
+That's the best promise you can make to yourself.
+यही सबसे अच्छा वादा है जो आप खुद से कर सकते हैं।
 
