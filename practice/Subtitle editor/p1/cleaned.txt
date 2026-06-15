@@ -938,87 +938,107 @@ Excellent.
 
 235
 That's how you grow.
+इसी तरह इंसान सीखता और आगे बढ़ता है।
 
 236
-Keep repeating that sentence every morning
-when you wake up.
+Keep repeating that sentence every morning when you wake up.
+हर सुबह जब आप सोकर उठें, तो इस वाक्य को दोहराते रहें।
 
 237
 I will do that.
+मैं ऐसा ज़रूर करूँगा।
 
 238
 I speak English every day.
+मैं प्रतिदिन अंग्रेजी बोलता हूँ।
 
 239
 Perfect.
+उत्तम।
 
 240
 You are doing great.
+आप बहुत अच्छा कर रहे हैं।
 
 241
 Sir, today I feel a little better.
+सर, आज मुझे थोड़ा बेहतर लग रहा है।
 
 242
-Yesterday, I practice speaking in front of
-the mirror.
+Yesterday, I practice speaking in front of the mirror.
+कल मैंने दर्पण के सामने बोलने का अभ्यास किया।
 
 243
-But still, when I speak English with my
-friends, I make many mistakes.
+But still, when I speak English with my friends, I make many mistakes.
+लेकिन फिर भी, जब मैं अपने दोस्तों के साथ अंग्रेजी बोलता हूँ, तो मुझसे बहुत सी गलतियाँ होती हैं।
 
 244
 They don't laugh now, but I feel shy.
+वे अब हंसते नहीं हैं, लेकिन मुझे शर्म आती है।
 
 245
 That is good progress.
+यह एक अच्छी शुरुआत है।
 
 246
-You practiced, and that is the best way to
-learn.
+You practiced, and that is the best way to learn.
+आपने अभ्यास किया, और सीखने का यही सबसे अच्छा तरीका है।
 
 247
 Making mistakes is a part of learning.
+गलतियाँ करना सीखने का ही एक हिस्सा है।
 
 248
 You should be proud that you were trying.
+आपको इस बात पर गर्व होना चाहिए कि आपने कोशिश की।
 
 249
 Tell me, what did you practice yesterday?
+बताइए, आपने कल क्या अभ्यास किया था?
 
 250
 I said my daily routine again and again.
+मैंने अपनी दिनचर्या को बार-बार दोहराया।
 
 251
 I said, I wake up at seven.
+मैंने कहा, मैं सात बजे उठता हूँ।
 
 252
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 253
 I go to school.
+मैं स्कूल जाता हूँ।
 
 254
 But sometimes, I forget the verbs.
+लेकिन कभी-कभी मैं क्रियाएँ भूल जाता हूँ।
 
 255
 That's okay.
+कोई बात नहीं।
 
 256
 You are learning verbs slowly.
+आप धीरे-धीरे क्रियाएं सीख रहे हैं।
 
 257
-Today, we will talk more about the simple
-present tense and verbs.
+Today, we will talk more about the simple present tense and verbs.
+आज हम सामान्य वर्तमान काल और क्रियाओं के बारे में और बात करेंगे।
 
 258
-The simple present tense means we talk
-about what we do every day.
+The simple present tense means we talk about what we do every day.
+सामान्य वर्तमान काल का मतलब है कि हम उन चीज़ों के बारे में बात करते हैं जो हम हर दिन करते हैं।
 
 259
 It is like a habit.
+यह एक आदत की तरह है।
 
 260
-You say, I go, I eat, I work.
+You say: I go, I eat, I work.
+आप कहते हैं: मैं जाता हूँ, मैं खाता हूँ, मैं काम करता हूँ।
 
 261
 We use the base form of the verb.
@@ -1101,6 +1121,7 @@ She eats breakfast.
 
 285
 Perfect.
+उत्तम।
 
 286
 One more.
@@ -1182,9 +1203,11 @@ Nice.
 
 310
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 311
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 312
 She brushes her teeth.
@@ -1195,9 +1218,11 @@ Excellent.
 
 314
 I go to school.
+मैं स्कूल जाता हूँ।
 
 315
 I go to school.
+मैं स्कूल जाता हूँ।
 
 316
 She goes to school.
@@ -1316,6 +1341,7 @@ I understand now.
 
 351
 Perfect.
+उत्तम।
 
 352
 Let's make a small story about a day using
@@ -1329,6 +1355,7 @@ I get up at seven.
 
 355
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 356
 I take a shower.
@@ -1339,6 +1366,7 @@ I eat breakfast.
 
 358
 I go to school.
+मैं स्कूल जाता हूँ।
 
 359
 I study English.
@@ -1375,6 +1403,7 @@ I get up at seven.
 
 369
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 370
 I take a shower.
@@ -1385,6 +1414,7 @@ I eat breakfast.
 
 372
 I go to school.
+मैं स्कूल जाता हूँ।
 
 373
 I study English.
@@ -1608,6 +1638,7 @@ Say I wake up.
 
 439
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 440
 I take a shower.
@@ -1825,6 +1856,7 @@ I'm fine too.
 
 505
 Perfect.
+उत्तम।
 
 506
 That's how we start a simple talk.
@@ -2080,9 +2112,11 @@ I like tea.
 
 584
 I go to school.
+मैं स्कूल जाता हूँ।
 
 585
 I go to school.
+मैं स्कूल जाता हूँ।
 
 586
 I do my homework.
@@ -2440,6 +2474,7 @@ I wake up early.
 
 694
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 695
 I eat breakfast.
@@ -2450,6 +2485,7 @@ Where do you go after breakfast?
 
 697
 I go to school.
+मैं स्कूल जाता हूँ।
 
 698
 What do you do in the evening?
@@ -2514,6 +2550,7 @@ I eat breakfast.
 
 716
 I go to school.
+मैं स्कूल जाता हूँ।
 
 717
 I study.
@@ -2592,6 +2629,7 @@ I feel so small.
 
 740
 That's okay.
+कोई बात नहीं।
 
 741
 Every learner feels that way.
@@ -2699,6 +2737,7 @@ You can say, I wake up.
 
 773
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 774
 I eat breakfast.
@@ -2706,6 +2745,7 @@ I eat breakfast.
 
 775
 I go to school.
+मैं स्कूल जाता हूँ।
 
 776
 Say it with me.
@@ -2715,6 +2755,7 @@ I wake up.
 
 778
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 779
 I eat breakfast.
@@ -2722,6 +2763,7 @@ I eat breakfast.
 
 780
 I go to school.
+मैं स्कूल जाता हूँ।
 
 781
 Good.
@@ -2817,9 +2859,11 @@ I can say, I wake up early.
 
 807
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 808
 I go to school.
+मैं स्कूल जाता हूँ।
 
 809
 I study.
@@ -2839,6 +2883,7 @@ I sleep.
 
 814
 Perfect.
+उत्तम।
 
 815
 You just spoke eight correct sentences in
@@ -3106,6 +3151,7 @@ What do you do after breakfast?
 
 897
 I go to school.
+मैं स्कूल जाता हूँ।
 
 898
 Excellent.
@@ -3153,6 +3199,7 @@ My sister goes to school.
 
 911
 Perfect.
+उत्तम।
 
 912
 You are improving.
@@ -3292,6 +3339,7 @@ That's the spirit.
 
 954
 You are doing great.
+आप बहुत अच्छा कर रहे हैं।
 
 955
 Sir, today I tried to speak English again
@@ -3346,6 +3394,7 @@ laughed.
 
 969
 That's okay.
+कोई बात नहीं।
 
 970
 Maybe they don't
@@ -3364,6 +3413,7 @@ I wake up early.
 
 974
 I go to school.
+मैं स्कूल जाता हूँ।
 
 975
 I study English.
@@ -3410,6 +3460,7 @@ What do you do after you wake up?
 
 988
 I brush my teeth.
+मैं दांत ब्रश करता हूँ।
 
 989
 I wash my face.
@@ -3439,6 +3490,7 @@ Now tell me what you do after breakfast.
 
 997
 I go to school.
+मैं स्कूल जाता हूँ।
 
 998
 I study.
@@ -3657,6 +3709,7 @@ He studies math.
 
 1063
 Perfect.
+उत्तम।
 
 1064
 You are using he and she sentences very
@@ -3849,6 +3902,7 @@ but I don't understand all the words.
 
 1121
 That's okay.
+कोई बात नहीं।
 
 1122
 You can enjoy the rhythm and catch small
@@ -3899,8 +3953,7 @@ That's a wonderful goal.
 English helps you connect with the world.
 
 1136
-But remember, it's not about being
-perfect.
+But remember, it's not about being perfect.
 
 1137
 It's about being brave.
