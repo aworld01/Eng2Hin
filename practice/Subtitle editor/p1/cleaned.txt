@@ -794,7 +794,7 @@ I sleep at 10 o'clock.
 
 199
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 200
 That is your full daily routine.
@@ -1118,18 +1118,23 @@ Good.
 
 280
 Now, change I to she.
+अब, 'I' को 'she' में बदलिए।
 
 281
 She eats breakfast.
+वह नाश्ता करती है।
 
 282
 Listen carefully.
+ध्यान से सुनिए।
 
 283
 You should say, she eats breakfast.
+आपको कहना चाहिए, वह नाश्ता करती है।
 
 284
 She eats breakfast.
+वह नाश्ता करती है।
 
 285
 Perfect.
@@ -1137,18 +1142,23 @@ Perfect.
 
 286
 One more.
+और एक।
 
 287
 I play football.
+मैं फुटबॉल खेलता हूं।
 
 288
 I play football.
+मैं फुटबॉल खेलता हूं।
 
 289
 Now, change it to he.
+अब, 'it' को 'he' में बदलिए।
 
 290
 He plays football.
+वह फुटबॉल खेलता है।
 
 291
 Excellent.
@@ -1156,31 +1166,39 @@ Excellent.
 
 292
 You are getting it right.
+आप बिल्कुल सही समझ रहे हैं।
 
 293
 Let's do some more practice.
+चलिए थोड़ा और अभ्यास करते हैं।
 
 294
 They study English.
+वे अंग्रेजी पढ़ते हैं।
 
 295
 They study English.
+वे अंग्रेजी पढ़ते हैं।
 
 296
 Now, change it to she.
+अब, 'it' को 'she' में बदलिए।
 
 297
 She studies English.
+वह अंग्रेजी पढ़ती है।
 
 298
 That's correct.
+यह सही है।
 
 299
-You see, when the verb ends with Y,
-we change Y to I-E-S.
+You see, when the verb ends with Y, we change Y to I-E-S.
+देखिए, जब क्रिया Y पर समाप्त होती है, तो हम Y को I-E-S में बदल देते हैं।
 
 300
 Like study becomes studies.
+जैसे study, studies बन जाता है।
 
 301
 Yes, sir.
@@ -1188,30 +1206,35 @@ Yes, sir.
 
 302
 It is easy when you explain it.
+जब आप समझाते हैं, तो यह आसान हो जाता है।
 
 303
 Good.
 अच्छा।
 
 304
-Let's continue with some daily routine
-practice using both I and she.
+Let's continue with some daily routine practice using both I and she.
+आइए, 'I' और 'she' दोनों का उपयोग करते हुए कुछ दैनिक दिनचर्या का अभ्यास जारी रखें।
 
 305
-I will say one sentence, and you repeat
-both versions.
+I will say one sentence, and you repeat both versions.
+मैं एक वाक्य बोलूंगा, और आप दोनों versions दोहराएंगे।
 
 306
 I get up at 7 o'clock.
+मैं 7 बजे उठता हूँ।
 
 307
 I get up at 7 o'clock.
+मैं 7 बजे उठता हूँ।
 
 308
 She gets up at 7 o'clock.
+वह 7 बजे उठती है।
 
 309
 Nice.
+बढ़िया।
 
 310
 I brush my teeth.
@@ -1223,6 +1246,7 @@ I brush my teeth.
 
 312
 She brushes her teeth.
+वह अपने दाँत साफ करती है।
 
 313
 Excellent.
@@ -1238,10 +1262,11 @@ I go to school.
 
 316
 She goes to school.
+वह स्कूल जाती है।
 
 317
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 318
 You are speaking very clearly.
@@ -1457,7 +1482,7 @@ I go to bed at ten o'clock.
 
 381
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 382
 That was clear and correct.
@@ -3042,7 +3067,7 @@ He goes.
 
 860
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 861
 You are learning fast.
@@ -3298,7 +3323,7 @@ I like writing, too.
 
 938
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 939
 Keep writing and reading aloud.
@@ -3549,7 +3574,7 @@ I play with my friends during break time.
 
 1011
 Wonderful.
-आश्चर्यजनक।
+बहुत बढ़िया!
 
 1012
 You see how fluent you sound now?
