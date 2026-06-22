@@ -208,7 +208,7 @@ I wash my face.
 
 53
 I take a shower.
-मैं स्नान करता हूँ।
+मैं नहाता हूँ।
 
 54
 Very good.
@@ -228,7 +228,7 @@ I wash my face and take a shower.
 
 58
 Great job.
-बहुत अच्छा।
+बहुत बढ़िया।
 
 59
 Remember, always speak slowly and clearly.
@@ -553,7 +553,7 @@ I watch TV.
 
 138
 Very nice.
-बहुत अच्छा।
+बहुत बढ़िया।
 
 139
 Let's talk about the evening.
@@ -589,7 +589,7 @@ You are using the simple present tense correctly every time.
 
 147
 Thank you, sir.
-शुक्रिया सर।
+धन्यवाद सर।
 
 148
 I feel happy now.
@@ -1270,28 +1270,31 @@ Wonderful.
 
 318
 You are speaking very clearly.
+आप बहुत साफ़ बोल रहे हैं।
 
 319
 Thank you, sir.
+धन्यवाद सर।
 
 320
-I think this practice helps me remember
-the rules.
+I think this practice helps me remember the rules.
+मुझे लगता है कि यह अभ्यास मुझे नियमों को याद रखने में मदद करता है।
 
 321
 Yes.
+हाँ।
 
 322
-That is how your brain learns through
-repeating and listening.
+That is how your brain learns through repeating and listening.
+आपका दिमाग ऐसे ही बार-बार सुनने और दोहराने से सीखता है।
 
 323
-Now, let's talk a little about other daily
-actions.
+Now, let's talk a little about other daily actions.
+अब, चलिए अन्य दैनिक कार्यों के बारे में थोड़ी बात करते हैं।
 
 324
-What do you do in the morning before
-school?
+What do you do in the morning before school?
+आप सुबह स्कूल जाने से पहले क्या करते हैं?
 
 325
 I help my mother.
@@ -1299,6 +1302,7 @@ I help my mother.
 
 326
 Sometimes I make tea.
+कभी-कभी मैं चाय बनाता हूँ।
 
 327
 Very good.
@@ -1306,15 +1310,19 @@ Very good.
 
 328
 What about your father?
+और आपके पिता जी?
 
 329
 What does he do in the morning?
+वह सुबह क्या करते हैं?
 
 330
 He reads the newspaper.
+वह अखबार पढ़ते हैं।
 
 331
 He drinks tea.
+वह चाय पीते हैं।
 
 332
 Excellent.
@@ -1322,52 +1330,66 @@ Excellent.
 
 333
 You are using does correctly.
+आप 'does' का सही उपयोग कर रहे हैं।
 
 334
-Now, remember, with he and she,
-we also use does for questions.
+Now, remember, with he and she, we also use does for questions.
+अब याद रखिए कि he और she के साथ, सवालों में does का भी इस्तेमाल किया जाता है।
 
 335
 For example, does he read the newspaper?
+उदाहरण के लिए, क्या वह अखबार पढ़ता है?
 
 336
 And the answer is yes, he does.
+और इसका जवाब है हां, वह पढ़ता है।
 
 337
 Try saying it.
+इसे बोलने की कोशिश कीजिए।
 
 338
-Does he read the newspaper?
+क्या वह अखबार पढ़ता है?
 
 339
 Yes, he does.
+हां, वह पढ़ता है।
 
 340
 Great job.
+बहुत बढ़िया।
 
 341
 Now, let's make some more examples.
+अब, कुछ और उदाहरण लेते हैं।
 
 342
 Does she go to school?
+क्या वह स्कूल जाती है?
 
 343
 Yes, she does.
+हां, वह जाती है।
 
 344
 Does he play football?
+क्या वह फ़ुटबॉल खेलता है?
 
 345
 No, he doesn't.
+नहीं, वह नहीं खेलता है।
 
 346
 Very nice.
+बहुत बढ़िया।
 
 347
 When we say no, we use doesn't.
+जब हम ना कहते हैं, तब हम doesn't का उपयोग करते हैं।
 
 348
 That means does not.
+इसका मतलब है कि नहीं।
 
 349
 Yes, sir.
@@ -1375,20 +1397,23 @@ Yes, sir.
 
 350
 I understand now.
+अब मैं समझ गया।
 
 351
 Perfect.
 उत्तम।
 
 352
-Let's make a small story about a day using
-the simple present tense.
+Let's make a small story about a day using the simple present tense.
+आइए, simple present tense का प्रयोग करते हुए एक दिन की छोटी सी कहानी बनाते हैं।
 
 353
 Listen first.
+पहले सुनिए।
 
 354
 I get up at seven.
+मैं सात बजे उठता हूँ।
 
 355
 I brush my teeth.
@@ -1396,6 +1421,7 @@ I brush my teeth.
 
 356
 I take a shower.
+मैं नहाता हूँ।
 
 357
 I eat breakfast.
@@ -1437,6 +1463,7 @@ Now you try.
 
 368
 I get up at seven.
+मैं सात बजे उठता हूँ।
 
 369
 I brush my teeth.
@@ -1444,6 +1471,7 @@ I brush my teeth.
 
 370
 I take a shower.
+मैं नहाता हूँ।
 
 371
 I eat breakfast.
@@ -1679,6 +1707,7 @@ I brush my teeth.
 
 440
 I take a shower.
+मैं नहाता हूँ।
 
 441
 You can even say them while doing the
@@ -1788,6 +1817,7 @@ doing great.
 
 473
 Thank you, sir.
+धन्यवाद सर।
 
 474
 I will keep practicing the simple present
@@ -1961,6 +1991,7 @@ I live in Karachi.
 
 526
 Very nice.
+बहुत बढ़िया।
 
 527
 You can also ask about hobbies.
@@ -2108,6 +2139,7 @@ sentence.
 
 571
 Thank you, sir.
+धन्यवाद सर।
 
 572
 I think I can speak like this when I need
@@ -2372,6 +2404,7 @@ That's a big improvement.
 
 650
 Thank you, sir.
+धन्यवाद सर।
 
 651
 I remember your examples.
@@ -2466,6 +2499,7 @@ He doesn't like noise.
 
 680
 Very nice.
+बहुत बढ़िया।
 
 681
 You said everything correctly.
@@ -2928,6 +2962,7 @@ English.
 
 816
 Thank you, sir.
+धन्यवाद सर।
 
 817
 When I speak slowly like this,
@@ -3817,6 +3852,7 @@ You are becoming confident.
 
 1084
 Thank you, sir.
+धन्यवाद सर।
 
 1085
 I feel better when I can find mistakes
@@ -4069,6 +4105,7 @@ You can do the same.
 
 1160
 Thank you, sir.
+धन्यवाद सर।
 
 1161
 You make English feel simple.
