@@ -264,7 +264,7 @@ I eat breakfast.
 
 66
 What do you eat for breakfast?
-तुम्हारा नाश्ता में क्या खाते हो?
+आप नाश्ते में क्या खाते हैं?
 
 67
 I eat eggs and bread.
@@ -485,11 +485,11 @@ What do you do in the afternoon?
 
 121
 I come home.
-मैं घर आता हूं।
+मैं घर आता हूँ।
 
 122
 I eat lunch.
-मैं दोपहर का खाना खाता हूं।
+मैं दोपहर का भोजन खाता हूँ।
 
 123
 Very good.
@@ -521,7 +521,7 @@ After lunch, what do you do?
 
 130
 I rest.
-मैं आराम करता हूं।
+मैं आराम करता हूँ।
 
 131
 I watch TV.
@@ -1437,15 +1437,19 @@ I study English.
 
 360
 I play with my friends.
+मैं अपने दोस्तों के साथ खेलता हूँ।
 
 361
 I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
 
 362
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 363
 I rest.
+मैं आराम करता हूँ।
 
 364
 I do my homework.
@@ -1457,9 +1461,11 @@ I watch TV.
 
 366
 I go to bed at ten o'clock.
+मैं दस बजे सोता हूँ।
 
 367
 Now you try.
+अब आप कोशिश कीजिए।
 
 368
 I get up at seven.
@@ -1487,15 +1493,19 @@ I study English.
 
 374
 I play with my friends.
+मैं अपने दोस्तों के साथ खेलता हूँ।
 
 375
 I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
 
 376
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 377
 I rest.
+मैं आराम करता हूँ।
 
 378
 I do my homework.
@@ -1507,6 +1517,7 @@ I watch TV.
 
 380
 I go to bed at ten o'clock.
+मैं दस बजे सोता हूँ।
 
 381
 Wonderful.
@@ -1514,44 +1525,55 @@ Wonderful.
 
 382
 That was clear and correct.
+वह साफ और सही था।
 
 383
 You are improving fast.
+तुम बहुत तेज़ी से सुधार कर रहे हो।
 
 384
 I am happy.
+मैं खुश हूँ।
 
 385
 Before I could not say so many sentences.
+पहले मैं इतने सारे वाक्य नहीं बोल पाता था।
 
 386
 Now it is easy.
+अब यह आसान है।
 
 387
-That is because you are practicing every
-day.
+That is because you are practicing every day.
+ऐसा इसलिए है क्योंकि आप हर रोज अभ्यास कर रहे हैं।
 
 388
 The more you speak, the better you become.
+जितना अधिक बोलोगे, उतना ही सुधार होगा।
 
 389
-Now, let's use some question and answer
-practice with your routine.
+Now, let's use some question and answer practice with your routine.
+अब, चलिए आपकी दिनचर्या के साथ कुछ प्रश्न और उत्तर का अभ्यास करते हैं।
 
 390
 What time do you get up?
+आप कितने बजे उठते हैं?
 
 391
 I get up at seven o'clock.
+मैं सात बजे उठता हूँ।
 
 392
 What do you eat for breakfast?
+आप नाश्ते में क्या खाते हैं?
 
 393
 I eat bread and eggs.
+मैं ब्रेड और अंडे खाता हूँ।
 
 394
 When do you go to school?
+तुम स्कूल कब जाते हो?
 
 395
 I go to school at eight o'clock.
@@ -1559,12 +1581,15 @@ I go to school at eight o'clock.
 
 396
 When do you come home?
+आप घर कब आते हैं?
 
 397
 I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
 
 398
 What do you do in the evening?
+आप शाम को क्या करते हैं?
 
 399
 I do my homework.
@@ -1583,12 +1608,12 @@ Very good.
 बहुत अच्छे।
 
 403
-This is how you build small English
-conversations.
+This is how you build small English conversations.
+इस तरह से अंग्रेज़ी में छोटी-मोटी बातचीत की जाती है।
 
 404
-These questions and answers help you talk
-to anyone.
+These questions and answers help you talk to anyone.
+ये सवाल और जवाब आपको किसी से भी बात करने में मदद करते हैं।
 
 405
 Yes, sir.
@@ -1606,9 +1631,11 @@ You can ask your friends.
 
 409
 What time do you get up?
+आप कितने बजे उठते हैं?
 
 410
 What do you eat for breakfast?
+आप नाश्ते में क्या खाते हैं?
 
 411
 And they can answer.
@@ -2095,9 +2122,11 @@ I go to school at eight o'clock.
 
 558
 And when do you come home?
+और आप घर कब आते हैं?
 
 559
 I come home at one o'clock.
+मैं एक बजे घर आता हूँ।
 
 560
 Good.
@@ -2108,6 +2137,7 @@ What do you do after school?
 
 562
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 563
 I take a rest.
@@ -2560,6 +2590,7 @@ I go to school.
 
 698
 What do you do in the evening?
+आप शाम को क्या करते हैं?
 
 699
 I study English and listen to songs.
@@ -2628,6 +2659,7 @@ I study.
 
 718
 I come home.
+मैं घर आता हूँ।
 
 719
 I watch TV.
@@ -2870,9 +2902,11 @@ Now let's add a few more.
 
 790
 I come home.
+मैं घर आता हूँ।
 
 791
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 792
 I do my homework.
@@ -2891,9 +2925,11 @@ I sleep.
 
 796
 I come home.
+मैं घर आता हूँ।
 
 797
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 798
 I do my homework.
@@ -2941,9 +2977,11 @@ I study.
 
 810
 I come home.
+मैं घर आता हूँ।
 
 811
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 812
 I watch TV.
@@ -3217,6 +3255,7 @@ What do you eat?
 
 895
 I eat bread and eggs.
+मैं ब्रेड और अंडे खाता हूँ।
 
 896
 What do you do after breakfast?
@@ -3547,9 +3586,11 @@ Excellent.
 
 992
 What do you eat for breakfast?
+आप नाश्ते में क्या खाते हैं?
 
 993
 I eat bread and eggs.
+मैं ब्रेड और अंडे खाता हूँ।
 
 994
 Sometimes I drink milk.
@@ -3572,6 +3613,7 @@ I talk to my teacher.
 
 1000
 I play with my friends.
+मैं अपने दोस्तों के साथ खेलता हूँ।
 
 1001
 Very good.
@@ -3638,6 +3680,7 @@ What do you do when you come home?
 
 1019
 I eat lunch.
+मैं दोपहर का भोजन खाता हूँ।
 
 1020
 Then I take a rest.
