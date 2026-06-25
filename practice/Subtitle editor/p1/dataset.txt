@@ -1620,14 +1620,16 @@ Yes, sir.
 जी सर।
 
 406
-I can use them to talk with my friends
-too.
+I can use them to talk with my friends too.
+मैं इनका उपयोग अपने दोस्तों से बात करने के लिए भी कर सकता हूँ।
 
 407
 Exactly.
+बिल्कुल सही।
 
 408
 You can ask your friends.
+आप अपने दोस्तों से पूछ सकते हैं।
 
 409
 What time do you get up?
@@ -1639,12 +1641,15 @@ What do you eat for breakfast?
 
 411
 And they can answer.
+और वे जवाब दे सकते हैं।
 
 412
 This is good practice.
+यह अच्छा अभ्यास है।
 
 413
 I will try that.
+मैं कोशिश करूँगा।
 
 414
 Good.
@@ -1652,21 +1657,27 @@ Good.
 
 415
 Now let's add a few new daily actions.
+अब आइए कुछ नए दैनिक कार्यों को जोड़ते हैं।
 
 416
 Say after me.
+मेरे बाद बोलिए।
 
 417
 I walk to school.
+मैं पैदल स्कूल जाता हूँ।
 
 418
 I walk to school.
+मैं पैदल स्कूल जाता हूँ।
 
 419
 I talk to my teacher.
+मैं अपने शिक्षक से बात करता हूँ।
 
 420
 I talk to my teacher.
+मैं अपने शिक्षक से बात करता हूँ।
 
 421
 I read a book.
@@ -1678,32 +1689,39 @@ I read a book.
 
 423
 I write in my notebook.
+मैं अपनी नोटबुक में लिखता हूँ।
 
 424
 I write in my notebook.
+मैं अपनी नोटबुक में लिखता हूँ।
 
 425
 I listen to music.
+मैं संगीत सुनता हूँ।
 
 426
 I listen to music.
+मैं संगीत सुनता हूँ।
 
 427
 I play with my little brother.
+मैं अपने छोटे भाई के साथ खेलता हूँ।
 
 428
 I play with my little brother.
+मैं अपने छोटे भाई के साथ खेलता हूँ।
 
 429
 Very good.
 बहुत अच्छे।
 
 430
-All these are simple present tense
-sentences.
+All these are simple present tense sentences.
+यह सभी Simple Present Tense के वाक्य हैं।
 
 431
 They are about things we do every day.
+ये उन चीजों के बारे में हैं जो हम हर दिन करते हैं।
 
 432
 Yes, sir.
@@ -1711,22 +1729,27 @@ Yes, sir.
 
 433
 I understand the simple present tense now.
+अब मुझे simple present tense समझ में आ गया है।
 
 434
 That's great.
+बहुत बढ़िया!
 
 435
 Remember one thing.
+एक बात याद रखना।
 
 436
 Practice makes you confident.
+अभ्यास आपको आत्मविश्वासी बनाता है।
 
 437
-Speak these sentences every day when you
-wake up.
+Speak these sentences every day when you wake up.
+रोज सुबह उठते ही इन वाक्यों को बोलें।
 
 438
 Say I wake up.
+कहो मैं जागता हूँ।
 
 439
 I brush my teeth.
@@ -1737,56 +1760,68 @@ I take a shower.
 मैं नहाता हूँ।
 
 441
-You can even say them while doing the
-action.
+You can even say them while doing the action.
+आप काम करते-करते भी ये बोल सकते हैं।
 
 442
 I can say I eat breakfast when I eat.
+जब मैं नाश्ता करता हूँ, तब मैं कह सकता हूँ "I eat breakfast."
 
 443
 Exactly.
+बिल्कुल सही।
 
 444
-That helps your brain connect the word
-with the action.
+That helps your brain connect the word with the action.
+इससे आपके दिमाग को शब्द और एक्शन के बीच संबंध बनाने में मदद मिलती है।
 
 445
 This is a powerful way to learn English.
+यह अंग्रेजी सीखने का एक शक्तिशाली तरीका है।
 
 446
 I like that idea.
+मुझे यह विचार पसंद आया।
 
 447
 I will speak English while doing my work.
+मैं अपना काम करते समय अंग्रेजी बोलूंगा।
 
 448
 That's excellent.
+यह तो बहुत अच्छी बात है!
 
 449
-You can also listen to English songs or
-short stories and repeat the sentences.
+You can also listen to English songs or short stories and repeat the sentences.
+आप अंग्रेजी गाने या छोटी कहानियां भी सुन सकते हैं और वाक्यों को दोहरा सकते हैं।
 
 450
-This will help you improve pronunciation
-too.
+This will help you improve pronunciation too.
+इससे आपको अपना उच्चारण सुधारने में भी मदद मिलेगी।
 
 451
 Sir, sometimes I feel I speak slowly.
+सर, कभी-कभी मुझे लगता है कि मैं धीरे बोलता हूँ।
 
 452
 Is that okay?
+क्या यह ठीक है?
 
 453
 Yes, it is okay.
+हाँ, कोई बात नहीं।
 
 454
 Speaking slowly is good for learning.
+धीरे बोलना सीखने के लिए अच्छा है।
 
 455
 You will become faster with time.
+समय के साथ आप तेज़ हो जाएँगे।
 
 456
 Focus on being clear, not fast.
+रफ़्तार से ज़्यादा स्पष्टता पर ध्यान दें।
 
 457
 Yes, sir.
@@ -1794,6 +1829,7 @@ Yes, sir.
 
 458
 I will do that.
+मैं ऐसा ज़रूर करूँगा।
 
 459
 Good.
@@ -1801,86 +1837,95 @@ Good.
 
 460
 Keep using simple sentences.
+सरल वाक्यों का प्रयोग करते रहें।
 
 461
 You can say I walk.
+आप कह सकते हैं कि मैं चलता हूँ।
 
 462
 I read.
+मैं पढ़ता हूँ।
 
 463
 I write.
+मैं लिखता हूँ।
 
 464
 I play.
+मैं खेलता हूँ।
 
 465
 I help.
+मैं मदद करता हूँ।
 
 466
 These are strong and easy.
+ये मजबूत और आसान हैं।
 
 467
-You don't need long or difficult words
-now.
+You don't need long or difficult words now.
+अब आपको लंबे या मुश्किल शब्दों की ज़रूरत नहीं है।
 
 468
 Yes, sir.
 जी सर।
 
 469
-Short sentences help me feel more
-confident.
+Short sentences help me feel more confident.
+छोटे वाक्यों से मेरा आत्मविश्वास बढ़ता है।
 
 470
 That is true.
+सही बात है।
 
 471
 Confidence is more important than speed.
+आत्मविश्वास गति से अधिक ज़रूरी है।
 
 472
-You are learning step by step and you are
-doing great.
+You are learning step by step and you are doing great.
+आप धीरे-धीरे सीख रहे हैं और बहुत अच्छा कर रहे हैं।
 
 473
 Thank you, sir.
 धन्यवाद सर।
 
 474
-I will keep practicing the simple present
-tense.
+I will keep practicing the simple present tense.
+मैं simple present tense का अभ्यास करता रहूँगा।
 
 475
 That's very good.
 बहुत अच्छा है।
 
 476
-When you use English every day,
-it becomes natural.
+When you use English every day, it becomes natural.
+जब आप रोज़ अंग्रेज़ी बोलते हैं, तो यह अपने आप आने लगती है।
 
 477
 You don't need to think about grammar.
+आपको व्याकरण के बारे में सोचने की ज़रूरत नहीं है।
 
 478
 You will just speak it.
+आप बस इसे बोलेंगे।
 
 479
 I will try my best.
+मैं अपनी पूरी कोशिश करूँगा।
 
 480
 I know you will.
 
 481
-You are improving every day because you
-practice.
+You are improving every day because you practice.
 
 482
-And that is the secret of learning
-English.
+And that is the secret of learning English.
 
 483
-Sir, today I want to learn how to speak
-English with other people.
+Sir, today I want to learn how to speak English with other people.
 
 484
 When I meet someone new, I feel shy.
@@ -2158,6 +2203,7 @@ I like to watch TV and listen to music.
 
 568
 That's great.
+बहुत बढ़िया!
 
 569
 This is a full conversation about your
@@ -2493,6 +2539,7 @@ or my teacher.
 
 668
 Exactly.
+बिल्कुल सही।
 
 669
 Now, let's talk about likes and dislikes.
@@ -2614,6 +2661,7 @@ stopping.
 
 705
 That's great.
+बहुत बढ़िया!
 
 706
 You should feel proud.
@@ -2670,6 +2718,7 @@ That will make your English natural.
 
 721
 I will do that.
+मैं ऐसा ज़रूर करूँगा।
 
 722
 I will speak every day and not be shy.
@@ -3107,6 +3156,7 @@ So I play, but he plays.
 
 849
 Exactly.
+बिल्कुल सही।
 
 850
 That's the rule.
@@ -3116,12 +3166,14 @@ Let's repeat it a few times together.
 
 852
 I play.
+मैं खेलता हूँ।
 
 853
 He plays.
 
 854
 I read.
+मैं पढ़ता हूँ।
 
 855
 She reads.
@@ -3158,6 +3210,7 @@ I feel more confident now.
 
 865
 That's great.
+बहुत बढ़िया!
 
 866
 Now let's practice questions again using
@@ -3545,6 +3598,7 @@ clearly.
 
 980
 Exactly.
+बिल्कुल सही।
 
 981
 Simple English is powerful English.
@@ -3597,6 +3651,7 @@ Sometimes I drink milk.
 
 995
 That's great.
+बहुत बढ़िया!
 
 996
 Now tell me what you do after breakfast.
@@ -3610,6 +3665,7 @@ I study.
 
 999
 I talk to my teacher.
+मैं अपने शिक्षक से बात करता हूँ।
 
 1000
 I play with my friends.
@@ -3722,6 +3778,7 @@ do every day.
 
 1031
 Exactly.
+बिल्कुल सही।
 
 1032
 And also about things you like or don't
@@ -3997,6 +4054,7 @@ When I repeat, it feels easier.
 
 1115
 Exactly.
+बिल्कुल सही।
 
 1116
 Listening and repeating is the best
