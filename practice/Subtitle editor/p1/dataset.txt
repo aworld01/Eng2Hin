@@ -1917,81 +1917,102 @@ I will try my best.
 
 480
 I know you will.
+मुझे पता है तुम करोगे।
 
 481
 You are improving every day because you practice.
+आप हर दिन बेहतर हो रहे हैं क्योंकि आप अभ्यास करते हैं।
 
 482
 And that is the secret of learning English.
+और यही अंग्रेजी सीखने का रहस्य है।
 
 483
 Sir, today I want to learn how to speak English with other people.
+सर, आज मैं दूसरों के साथ अंग्रेजी में बात करना सीखना चाहता हूँ।
 
 484
 When I meet someone new, I feel shy.
+जब मैं किसी नए व्यक्ति से मिलता हूँ, तो मुझे शर्म आती है।
 
 485
 I don't know what to say first.
+समझ नहीं आता कि पहले क्या बोलें।
 
 486
 That's a good question.
+यह एक अच्छा सवाल है।
 
 487
 Many students feel the same.
+कई छात्र भी ऐसा ही महसूस करते हैं।
 
 488
-When we talk to others, we can use simple
-present tense to say what we do,
+When we talk to others, we can use simple present tense to say what we do, what we like, and who we are.
+जब हम दूसरों से बात करते हैं, तो हम क्या करते हैं, हमें क्या पसंद है, और हम कौन हैं, यह बताने के लिए simple present tense का उपयोग कर सकते हैं।
 
 489
-what we like, and who we are.
+
 
 490
 Let's practice small conversations.
+चलो थोड़ी बातचीत करने का अभ्यास करते हैं।
 
 491
 Okay, sir.
+ठीक है, सर।
 
 492
 I want to learn that.
+मैं यह सीखना चाहता हूँ।
 
 493
 Good.
 अच्छा।
 
 494
-First, when you meet someone, you can say,
-hello.
+First, when you meet someone, you can say, hello.
+सबसे पहले, जब आप किसी से मिलते हैं, तो आप कह सकते हैं, नमस्ते।
 
 495
 How are you?
+आप कैसे हैं?
 
 496
 The other person can answer, I'm fine.
+दूसरा व्यक्ति जवाब दे सकता है, मैं ठीक हूँ।
 
 497
 Thank you.
+धन्यवाद।
 
 498
 Let's try.
+चलो कोशिश करते हैं।
 
 499
 Hello.
+नमस्ते।
 
 500
 How are you?
+आप कैसे हैं?
 
 501
 I'm fine.
+मैं ठीक हूँ।
 
 502
 Thank you.
+धन्यवाद।
 
 503
 And you?
+और आप बताइए?
 
 504
 I'm fine too.
+मैं भी ठीक हूँ।
 
 505
 Perfect.
@@ -2122,6 +2143,7 @@ Hello.
 
 544
 How are you?
+आप कैसे हैं?
 
 545
 I'm fine.
@@ -2131,6 +2153,7 @@ Thank you.
 
 547
 How are you?
+आप कैसे हैं?
 
 548
 I'm fine too.
@@ -2245,6 +2268,7 @@ Let's practice with those.
 
 580
 Okay, sir.
+ठीक है, सर।
 
 581
 Say after me.
@@ -2344,6 +2368,7 @@ play football?
 
 609
 Okay, sir.
+ठीक है, सर।
 
 610
 Let me try.
