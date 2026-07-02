@@ -473,7 +473,7 @@ Yes, sir.
 
 118
 I understand.
-मैं समझता हूँ
+मैं समझता हूँ।
 
 119
 Let's practice more daily activities.
@@ -2474,27 +2474,35 @@ Very good.
 
 620
 Now you are making questions.
+अब आप सवाल पूछ रहे हैं।
 
 621
 That's how we have real conversations.
+इसी तरह हम असली बातचीत करते हैं।
 
 622
 You can use these every day with friends.
+आप इन्हें रोज़ अपने दोस्तों के साथ इस्तेमाल कर सकते हैं।
 
 623
 Sir, sometimes I feel scared to ask questions.
+सर, कभी-कभी मुझे सवाल पूछने में डर लगता है।
 
 624
 That's normal.
+यह तो आम बात है।
 
 625
 But the more you ask, the easier it becomes.
+लेकिन आप जितना अधिक पूछेंगे, यह उतना ही आसान होता जाएगा।
 
 626
 People will answer and you will learn from them.
+लोग जवाब देंगे और आप उनसे सीखेंगे।
 
 627
 If you make a mistake, just smile and continue.
+अगर आपसे कोई गलती हो जाए, तो बस मुस्कुराएं और आगे बढ़ें।
 
 628
 Yes, sir.
@@ -2502,27 +2510,35 @@ Yes, sir.
 
 629
 I will try to talk more.
+मैं ज़्यादा बात करने की कोशिश करूँगा।
 
 630
 Great.
+बहुत अच्छा।
 
 631
 Let's practice talking about your family now.
+आइए अब आपके परिवार के बारे में बात करने का अभ्यास करें।
 
 632
 Tell me about your family in simple sentences.
+अपने परिवार के बारे में सरल वाक्यों में बताइए।
 
 633
 I have four people in my family.
+मेरे परिवार में चार लोग हैं।
 
 634
 My father works in an office.
+मेरे पिताजी एक ऑफिस में काम करते हैं।
 
 635
 My mother cooks food.
+मेरी माँ खाना बनाती हैं।
 
 636
 My brother studies in school.
+मेरा भाई स्कूल में पढ़ता है।
 
 637
 I study English.
@@ -2534,18 +2550,23 @@ Excellent.
 
 639
 Now, let's add some more details.
+आइए, अब कुछ और विवरण जोड़ते हैं।
 
 640
 What time does your father go to work?
+आपके पिताजी कितने बजे काम पर जाते हैं?
 
 641
 He goes to work at nine o'clock.
+वह नौ बजे काम पर जाते है।
 
 642
 What time does he come home?
+वह कब घर आते हैं?
 
 643
 He comes home at six o'clock.
+वह छह बजे घर आते हैं।
 
 644
 Good.
@@ -2553,20 +2574,23 @@ Good.
 
 645
 What does your mother do in the afternoon?
+आपकी माता जी दोपहर में क्या करती हैं?
 
 646
 She cooks lunch and cleans the house.
+वह दोपहर का खाना बनाती है और घर की सफाई करती है।
 
 647
 Very good.
 बहुत अच्छे।
 
 648
-You are using does and s endings
-correctly.
+You are using does and s endings correctly.
+आप 'does' और शब्दों के अंत में 's' का प्रयोग बिल्कुल सही कर रहे हैं।
 
 649
 That's a big improvement.
+यह एक बड़ा सुधार है।
 
 650
 Thank you, sir.
@@ -2574,39 +2598,51 @@ Thank you, sir.
 
 651
 I remember your examples.
+मुझे आपके उदाहरण याद हैं।
 
 652
 That's the key to learning.
+यही सीखने का रहस्य है।
 
 653
 Listen and repeat.
+सुनिए और दोहराइए।
 
 654
 Repeat every day.
+हर दिन दोहराएं।
 
 655
 When you repeat, your tongue becomes comfortable with English sounds.
+जब आप दोहराते हैं, तो आपकी जीभ अंग्रेजी की आवाज़ों के साथ सहज हो जाती है।
 
 656
 Let's repeat a few more.
+आइए कुछ और दोहराते हैं।
 
 657
 He works in an office.
+वह एक दफ़्तर में काम करता है।
 
 658
 She cooks dinner.
+वह रात का खाना बनाती है।
 
 659
 She cooks dinner.
+वह रात का खाना बनाती है।
 
 660
 He reads books.
+वह किताबें पढ़ता है।
 
 661
 She watches TV.
+वह टीवी देखती है।
 
 662
 She watches TV.
+वह टीवी देखती है।
 
 663
 Very good.
@@ -2614,9 +2650,11 @@ Very good.
 
 664
 These are simple but useful sentences.
+ये आसान लेकिन काम के वाक्य हैं।
 
 665
 You can talk about anyone using these.
+आप इनका उपयोग करके किसी के भी बारे में बात कर सकते हैं।
 
 666
 Yes, sir.
@@ -2624,6 +2662,7 @@ Yes, sir.
 
 667
 I can talk about my family, my friends, or my teacher.
+मैं अपने परिवार, अपने दोस्तों या अपने शिक्षक के बारे में बात कर सकता हूँ।
 
 668
 Exactly.
@@ -2631,36 +2670,47 @@ Exactly.
 
 669
 Now, let's talk about likes and dislikes.
+अब, पसंद और नापसंद के बारे में बात करते हैं।
 
 670
-This is also in simple, present tense.
+This is also in simple present tense.
+यह भी simple present tense में है।
 
 671
 You can say, I like apples.
+आप कह सकते हैं, 'मुझे सेब पसंद हैं।'
 
 672
 I don't like bananas.
+मुझे केले पसंद नहीं हैं।
 
 673
 She likes tea.
+उसे चाय पसंद है।
 
 674
 He doesn't like milk.
+उसे दूध पसंद नहीं है।
 
 675
 Try some.
+थोड़ा कोशिश करो।
 
 676
 I like chocolate.
+मुझे चॉकलेट पसंद है।
 
 677
 I don't like coffee.
+मुझे कॉफ़ी पसंद नहीं है।
 
 678
 She likes music.
+उसे संगीत पसंद है।
 
 679
 He doesn't like noise.
+उसे शोर पसंद नहीं है।
 
 680
 Very nice.
@@ -2668,15 +2718,18 @@ Very nice.
 
 681
 You said everything correctly.
+आपने सब कुछ सही कहा।
 
 682
 Remember, when we use doesn't, we don't add s to the verb.
+याद रखें, जब हम doesn't का उपयोग करते हैं, तो क्रिया में s नहीं जोड़ते।
 
 683
 For example, he doesn't like.
+उदाहरण के लिए, उसे पसंद नहीं है।
 
 684
-Not he doesn't likes.
+"he doesn't likes." नहीं कहते।
 
 685
 Yes, sir.
@@ -2684,6 +2737,7 @@ Yes, sir.
 
 686
 I understand.
+मैं समझ गया।
 
 687
 Good.
@@ -2691,12 +2745,15 @@ Good.
 
 688
 Let's add a few small dialogues now.
+आइए अब कुछ छोटे संवाद जोड़ते हैं।
 
 689
 I'll say something and you answer.
+मैं कुछ कहूँगा और आप जवाब देना।
 
 690
 Do you like English?
+क्या आपको अंग्रेज़ी पसंद है?
 
 691
 Yes, I do.
@@ -2704,9 +2761,11 @@ Yes, I do.
 
 692
 What do you do every morning?
+आप हर सुबह क्या करते हैं?
 
 693
 I wake up early.
+मैं जल्दी उठता हूँ।
 
 694
 I brush my teeth.
@@ -2718,6 +2777,7 @@ I eat breakfast.
 
 696
 Where do you go after breakfast?
+नाश्ते के बाद आप कहाँ जाते हैं?
 
 697
 I go to school.
@@ -2729,6 +2789,7 @@ What do you do in the evening?
 
 699
 I study English and listen to songs.
+मैं अंग्रेजी पढ़ता हूँ और गाने सुनता हूँ।
 
 700
 Excellent.
@@ -2736,15 +2797,19 @@ Excellent.
 
 701
 You are talking naturally now.
+अब आप एकदम नेचुरल बात कर रहे हैं।
 
 702
 This is how conversations happen.
+बातचीत ऐसे ही होती है।
 
 703
 Simple, short, clear.
+आसान, छोटा, साफ़।
 
 704
 I feel happy when I can answer without stopping.
+जब मैं बिना रुके जवाब दे पाता हूँ, तो मुझे खुशी होती है।
 
 705
 That's great.
@@ -2752,15 +2817,19 @@ That's great.
 
 706
 You should feel proud.
+आपको खुद पर गर्व होना चाहिए।
 
 707
 Every small step makes you better.
+हर छोटा कदम आपको बेहतर बनाता है।
 
 708
 Keep using the simple present tense.
+simple present tense का इस्तेमाल जारी रखें।
 
 709
 It helps you talk about your life, your habits, your family, and your likes.
+यह आपको अपने जीवन, अपनी आदतों, अपने परिवार और अपनी पसंद-नापसंद के बारे में बात करने में मदद करता है।
 
 710
 Yes, sir.
