@@ -140,7 +140,7 @@ I wake up at seven o'clock.
 
 36
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 37
 See, you speak well.
@@ -276,7 +276,7 @@ Sometimes I drink milk.
 
 69
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 70
 You are using the simple present tense
@@ -465,7 +465,7 @@ Speak slowly.
 
 116
 The goal is to communicate not to be perfect.
-लक्ष्य संवाद स्थापित करना है, परिपूर्ण होना नहीं।
+मकसद बात पहुँचाना है, परफेक्ट होना नहीं।
 
 117
 Yes, sir.
@@ -529,7 +529,7 @@ I watch TV.
 
 132
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 133
 You can also say, I take a rest.
@@ -954,7 +954,7 @@ I speak English every day.
 
 239
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 240
 You are doing great.
@@ -1138,7 +1138,7 @@ She eats breakfast.
 
 285
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 286
 One more.
@@ -1401,7 +1401,7 @@ I understand now.
 
 351
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 352
 Let's make a small story about a day using the simple present tense.
@@ -2016,7 +2016,7 @@ I'm fine too.
 
 505
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 506
 That's how we start a simple talk.
@@ -3249,7 +3249,7 @@ I sleep.
 
 814
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 815
 You just spoke eight correct sentences in English.
@@ -3999,21 +3999,27 @@ Very good.
 
 1002
 You are making perfect daily routine sentences.
+आप दैनिक दिनचर्या से संबंधित बिल्कुल सही वाक्य बना रहे हैं।
 
 1003
 You can even make them longer now.
+अब आप उन्हें और भी लंबा बना सकते हैं।
 
 1004
 You can say, I go to school at eight o'clock.
+आप कह सकते हैं, 'मैं आठ बजे स्कूल जाता हूँ।'
 
 1005
 I study English in science.
+मैं विज्ञान में अंग्रेजी पढ़ता हूँ।
 
 1006
 I play with my friends during break time.
+मैं ब्रेक के समय अपने दोस्तों के साथ खेलता हूँ।
 
 1007
 Try it.
+इसे आज़माएं।
 
 1008
 I go to school at eight o'clock.
@@ -4021,9 +4027,11 @@ I go to school at eight o'clock.
 
 1009
 I study English in science.
+मैं विज्ञान में अंग्रेजी पढ़ता हूँ।
 
 1010
 I play with my friends during break time.
+मैं ब्रेक के समय अपने दोस्तों के साथ खेलता हूँ।
 
 1011
 Wonderful.
@@ -4031,6 +4039,7 @@ Wonderful.
 
 1012
 You see how fluent you sound now?
+देखा, अब आप कितने धाराप्रवाह लग रहे हैं?
 
 1013
 Yes, sir.
@@ -4038,6 +4047,7 @@ Yes, sir.
 
 1014
 When I speak slowly, I can say everything clearly.
+जब मैं धीरे बोलता हूँ, तो मैं सब कुछ स्पष्ट रूप से कह पाता हूँ।
 
 1015
 That's right.
@@ -4045,12 +4055,15 @@ That's right.
 
 1016
 You are speaking clearly and that is more important than speaking fast.
+आप स्पष्ट बोल रहे हैं और यह तेज़ बोलने से ज़्यादा महत्वपूर्ण है।
 
 1017
 You can practice by talking about your afternoon too.
+आप अपनी दोपहर के बारे में बात करके भी अभ्यास कर सकते हैं।
 
 1018
 What do you do when you come home?
+जब आप घर आते हैं तो क्या करते हैं?
 
 1019
 I eat lunch.
@@ -4058,6 +4071,7 @@ I eat lunch.
 
 1020
 Then I take a rest.
+फिर मैं आराम करता हूँ।
 
 1021
 I do my homework.
@@ -4065,6 +4079,7 @@ I do my homework.
 
 1022
 After that, I help my mother.
+उसके बाद, मैं अपनी माँ की मदद करता हूँ।
 
 1023
 Excellent.
@@ -4072,15 +4087,18 @@ Excellent.
 
 1024
 You are using verbs correctly in the simple present tense.
+आप Simple Present Tense में Verbs का सही उपयोग कर रहे हैं।
 
 1025
 Eat, take, do, help.
 
 1026
 These are all action words.
+ये सभी क्रियात्मक शब्द हैं।
 
 1027
 They show what you do every day.
+वे दिखाते हैं कि आप हर दिन क्या करते हैं।
 
 1028
 Yes, sir.
@@ -4088,9 +4106,11 @@ Yes, sir.
 
 1029
 I understand now.
+अब मैं समझ गया।
 
 1030
 The simple present tense is about things I do every day.
+Simple present tense उन चीजों के बारे में हैं जो मैं हर दिन करता हूँ।
 
 1031
 Exactly.
@@ -4098,12 +4118,15 @@ Exactly.
 
 1032
 And also about things you like or don't like.
+और उन चीज़ों के बारे में भी जो आपको पसंद या नापसंद हैं।
 
 1033
 Let's practice that.
+आइए इसका अभ्यास करें।
 
 1034
 What do you like to do after school?
+स्कूल के बाद आपको क्या करना पसंद है?
 
 1035
 I like to listen to music.
@@ -4111,9 +4134,11 @@ I like to listen to music.
 
 1036
 I like to draw pictures.
+मुझे चित्र बनाना पसंद है।
 
 1037
 I like to talk with my friends.
+मुझे अपने दोस्तों के साथ बात करना पसंद है।
 
 1038
 Very good.
@@ -4153,21 +4178,27 @@ I don't like.
 
 1047
 It's easy and natural.
+यह आसान और स्वाभाविक है।
 
 1048
 Now let's make some sentences about other people using he and she.
+अब आइए 'he' और 'she' का उपयोग करके अन्य लोगों के बारे में कुछ वाक्य बनाते हैं।
 
 1049
 Tell me about your father.
+अपने पिता जी के बारे में बताइए।
 
 1050
 My father works in an office.
+मेरे पिता ऑफिस में काम करते हैं।
 
 1051
 He drives a car.
+वह कार चलाते हैं।
 
 1052
 He drinks tea in the morning.
+वह सुबह चाय पीते है।
 
 1053
 Very good.
@@ -4175,15 +4206,19 @@ Very good.
 
 1054
 Tell me about your mother.
+अपनी माता जी के बारे में बताइए।
 
 1055
 My mother cooks food.
+मेरी माँ खाना बनाती हैं।
 
 1056
 She cleans the house.
+वह घर साफ़ करती है।
 
 1057
 She watches TV in the evening.
+वह शाम को टीवी देखती है।
 
 1058
 Excellent.
@@ -4191,25 +4226,31 @@ Excellent.
 
 1059
 And your brother?
+और आपका भाई?
 
 1060
 My brother goes to school.
+मेरा भाई स्कूल जाता है।
 
 1061
 He plays football.
+वह फुटबॉल खेलता है।
 
 1062
 He studies math.
+वह गणित पढ़ता है।
 
 1063
 Perfect.
-उत्तम।
+बिलकुल सही!
 
 1064
 You are using he and she sentences very well.
+आप 'he' और 'she' वाले वाक्यों का बहुत अच्छे से इस्तेमाल कर रहे हैं।
 
 1065
 Remember, with he, she and it, we add S to the verb.
+याद रखें, he, she और it के साथ, हम verb में S जोड़ते हैं।
 
 1066
 Works, drives, plays, studies.
@@ -4220,6 +4261,7 @@ Yes, sir.
 
 1068
 I remember that rule now.
+मुझे अब यह नियम याद आ गया।
 
 1069
 Good.
@@ -4227,18 +4269,22 @@ Good.
 
 1070
 Now let's make it more fun.
+अब इसे और भी मजेदार बनाते हैं।
 
 1071
 I will see a sentence and you tell me if it's correct or not.
+मैं एक वाक्य बोलूँगा और आप मुझे बताएँगे कि वह सही है या नहीं।
 
 1072
 He play football.
 
 1073
 It's wrong.
+यह गलत है।
 
 1074
 It should be he plays football.
+'he plays football.' होना चाहिए।
 
 1075
 Excellent.
@@ -4249,18 +4295,22 @@ She go to school.
 
 1077
 Wrong.
+गलत।
 
 1078
 She goes to school.
+'She goes to school.' होना चाहिए।
 
 1079
-They like tea.
+They likes tea.
 
 1080
 Wrong.
+गलत।
 
 1081
 They like tea.
+'They like tea.' होना चाहिए।
 
 1082
 Very good.
@@ -4268,6 +4318,7 @@ Very good.
 
 1083
 You are becoming confident.
+आपमें आत्मविश्वास बढ़ रहा है।
 
 1084
 Thank you, sir.
@@ -4275,30 +4326,39 @@ Thank you, sir.
 
 1085
 I feel better when I can find mistakes myself.
+मुझे तब ज़्यादा अच्छा लगता है जब मैं खुद अपनी गलतियाँ ढूंढ पाता हूँ।
 
 1086
 That's the sign of progress.
+यह प्रगति का संकेत है।
 
 1087
 Now let's practice some questions you can use in daily life.
+चलिए अब रोज़मर्रा की ज़िंदगी में काम आने वाले कुछ सवालों का अभ्यास करते हैं।
 
 1088
 For example, what do you eat for lunch?
+उदाहरण के लिए, आप दोपहर के भोजन में क्या खाते हैं?
 
 1089
 What time do you go to school?
+आप स्कूल कब जाते हैं?
 
 1090
 Do you like reading books?
+क्या आपको किताबें पढ़ना पसंद है?
 
 1091
 What do you eat for lunch?
+आप दोपहर के भोजन में क्या खाते हैं?
 
 1092
 I eat rice and vegetables.
+मैं चावल और सब्जियाँ खाता हूँ।
 
 1093
 What time do you go to school?
+आप स्कूल कब जाते हैं?
 
 1094
 I go to school at eight o'clock.
@@ -4306,6 +4366,7 @@ I go to school at eight o'clock.
 
 1095
 Do you like reading books?
+क्या आपको किताबें पढ़ना पसंद है?
 
 1096
 Yes, I do.
@@ -4313,45 +4374,59 @@ Yes, I do.
 
 1097
 I like reading English stories.
+मुझे अंग्रेजी कहानियां पढ़ना पसंद है।
 
 1098
 I want to read English stories too, but I find them difficult.
+मैं भी अंग्रेजी कहानियाँ पढ़ना चाहता हूँ, लेकिन मुझे वे कठिन लगती हैं।
 
 1099
 That's normal.
+यह सामान्य बात है।
 
 1100
 Start with short stories.
+छोटी कहानियों से शुरुआत करें।
 
 1101
 Read slowly.
+धीरे-धीरे पढ़िए।
 
 1102
 When you find a new word, don't stop.
+जब आपको कोई नया शब्द मिले, तो रुकें नहीं।
 
 1103
 Try to understand from the sentence.
+वाक्य से समझने की कोशिश कीजिए।
 
 1104
 Then read aloud.
+फिर ज़ोर से पढ़ें।
 
 1105
 Reading aloud helps your speaking.
+जोर से पढ़ने से आपकी बोलचाल बेहतर होती है।
 
 1106
 I can do that.
+मैं यह कर सकता हूँ।
 
 1107
 I will read one page every day.
+मैं हर दिन एक पेज पढ़ूँगा।
 
 1108
 That's a wonderful plan.
+वह एक शानदार योजना है।
 
 1109
 When you read, say the sentences in your mind and then repeat them out loud.
+जब आप पढ़ते हैं, तो वाक्यों को अपने मन में बोलें और फिर उन्हें ज़ोर से दोहराएं।
 
 1110
 For example, I wake up.
+जैसे कि, मैं जागता हूँ।
 
 1111
 I eat breakfast.
@@ -4359,6 +4434,7 @@ I eat breakfast.
 
 1112
 When you speak again and again, your mouth remembers the sound.
+जब आप बार-बार बोलते हैं, तो आपके मुंह को वह आवाज याद हो जाती है।
 
 1113
 Yes, sir.
@@ -4495,6 +4571,7 @@ I can speak small sentences while doing things.
 
 1156
 That's perfect.
+बिल्कुल सही है।
 
 1157
 That's how children learn their first language
