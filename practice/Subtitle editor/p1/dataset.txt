@@ -56,7 +56,7 @@ You are learning and learning takes time.
 
 15
 But sir, they speak fast.
-लेकिन सर, वे बहुत तेजी से बोलते हैं।
+लेकिन सर, वे तेज़ बोलते हैं।
 
 16
 I don't understand them.
@@ -68,7 +68,7 @@ When I try to talk, my words are wrong.
 
 18
 My friends laugh and I feel nervous.
-मेरे दोस्त हँसते हैं और मुझे घबराहट महसूस होती है।
+मेरे दोस्त हँसते हैं और मुझे घबराहट होती है।
 
 19
 It's fine.
@@ -96,15 +96,15 @@ Let's speak simple English, okay?
 
 25
 Okay, sir.
-ठीक है सर.
+ठीक है सर।
 
 26
 We will use simple present tense today.
-आज हम सरल वर्तमान काल का प्रयोग करेंगे।
+आज हम simple present tense का प्रयोग करेंगे।
 
 27
 We use simple present tense to talk about daily life, habits and routines.
-हम दैनिक जीवन, आदतें, और दिनचर्या के बारे में बात करने के लिए सरल वर्तमान काल का प्रयोग करते हैं।
+हम दैनिक जीवन, आदतें, और दिनचर्या के बारे में बात करने के लिए simple present tense का प्रयोग करते हैं।
 
 28
 For example, I say, I wake up at six o'clock.
@@ -120,11 +120,11 @@ You can say, I wake up at seven o'clock.
 
 31
 Let's try.
-आओ कोशिश करे।
+चलो कोशिश करते हैं।
 
 32
 I wake up at seven o'clock.
-मैं सात बजे उठता हूं।
+मैं सात बजे उठता हूँ।
 
 33
 Very good.
@@ -136,7 +136,7 @@ Say it again slowly.
 
 35,
 I wake up at seven o'clock.
-मैं सात बजे उठता हूं।
+मैं सात बजे उठता हूँ।
 
 36
 Perfect.
@@ -144,7 +144,7 @@ Perfect.
 
 37
 See, you speak well.
-देखिये आप अच्छा बोलते हैं।
+देखिये, आप अच्छा बोलते हैं।
 
 38
 Now let's add more sentences.
@@ -164,7 +164,7 @@ Good.
 
 42
 Say, I brush my teeth.
-कहो, मैं दांत ब्रश करता हूँ।।
+कहिए, मैं दांत ब्रश करता हूँ।
 
 43
 I brush my teeth.
@@ -236,17 +236,11 @@ Remember, always speak slowly and clearly.
 
 60
 Don't be afraid.
-डरो नहीं।
+डरिये नहीं।
 
 61
 Let's learn more.
 आइए और सिखे।
-
-
-
-
-
-
 
 62
 After the shower, what do you do?
@@ -257,9 +251,11 @@ I eat breakfast.
 मैंनें नाश्ता करता हूँ।
 
 64
-हाँ
+Yes.
+हाँ।
 
 65
+I eat breakfast.
 मैंनें नाश्ता करता हूँ।
 
 66
@@ -279,9 +275,8 @@ Perfect.
 बिलकुल सही!
 
 70
-You are using the simple present tense
-correctly.
-आप सरल वर्तमान काल का प्रयोग सही ढंग से कर रहे हैं।
+You are using the simple present tense correctly.
+आप simple present tense का प्रयोग सही ढंग से कर रहे हैं।
 
 71
 I eat eggs and bread.
@@ -428,12 +423,12 @@ You spoke all sentences clearly.
 आपने सभी वाक्य स्पष्ट रूप से बोले।
 
 107
-See?
-देखो
+See,
+देखो,
 
 108
 You can speak English.
-आप अंग्रेजी बोल सकते हैं
+आप अंग्रेजी बोल सकते हैं।
 
 109
 You only need to practice more.
@@ -460,8 +455,8 @@ Use another easy word.
 कोई दूसरा आसान शब्द इस्तेमाल करें।
 
 115
-Speak slowly.
-धीरे बोलो।
+Speak slowly,
+धीरे बोलो,
 
 116
 The goal is to communicate not to be perfect.
@@ -585,7 +580,7 @@ I help my mother.
 
 146
 You are using the simple present tense correctly every time.
-आप हर बार सरल वर्तमान काल का सही प्रयोग कर रहे हैं।
+आप हर बार simple present tense का सही प्रयोग कर रहे हैं।
 
 147
 Thank you, sir.
@@ -709,9 +704,11 @@ I am proud of you.
 
 177
 You are brave to speak.
+आपमें बोलने का साहस है।
 
 178
 Now, let's say all your daily routine again.
+अब, चलिए आपकी पूरी दिनचर्या फिर से दोहराते हैं।
 
 179
 From morning to night.
@@ -723,6 +720,7 @@ Okay, sir.
 
 181
 I wake up at 7 o'clock.
+मैं 7 बजे उठता हूँ।
 
 182
 I brush my teeth.
@@ -1014,7 +1012,7 @@ I go to school.
 
 254
 But sometimes, I forget the verbs.
-लेकिन कभी-कभी मैं क्रियाएँ भूल जाता हूँ।
+लेकिन कभी-कभी मैं verbs भूल जाता हूँ।
 
 255
 That's okay.
@@ -1022,15 +1020,15 @@ That's okay.
 
 256
 You are learning verbs slowly.
-आप धीरे-धीरे क्रियाएं सीख रहे हैं।
+आप धीरे-धीरे verbs सीख रहे हैं।
 
 257
 Today, we will talk more about the simple present tense and verbs.
-आज हम सामान्य वर्तमान काल और क्रियाओं के बारे में और बात करेंगे।
+आज हम simple present tense और verbs के बारे में और बात करेंगे।
 
 258
 The simple present tense means we talk about what we do every day.
-सामान्य वर्तमान काल का मतलब है कि हम उन चीज़ों के बारे में बात करते हैं जो हम हर दिन करते हैं।
+simple present tense का मतलब है कि हम उन चीज़ों के बारे में बात करते हैं जो हम हर दिन करते हैं।
 
 259
 It is like a habit.
@@ -1042,7 +1040,7 @@ You say: I go, I eat, I work.
 
 261
 We use the base form of the verb.
-हम क्रिया के मूल रूप का प्रयोग करते हैं।
+हम verb के मूल रूप का प्रयोग करते हैं।
 
 262
 Do you understand?
@@ -1054,7 +1052,7 @@ Yes, sir.
 
 264
 We use the first form, right?
-हम पहले रूप का उपयोग करते हैंना?
+हम first form का उपयोग करते हैंना?
 
 265
 Very good.
@@ -1062,7 +1060,7 @@ Very good.
 
 266
 We use the first form of the verb with I, you, we, and they.
-हम I, you, we, और they के साथ क्रिया के पहले रूप का उपयोग करते हैं।
+हम I, you, we, और they के साथ verb के first form का उपयोग करते हैं।
 
 267
 But when we use he, she, or it, we add S or Es.
