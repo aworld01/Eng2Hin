@@ -1,0 +1,50 @@
+Clear till => 34
+
+p1:
+    Sir, I want to tell something.
+
+p2:
+    Yes, please tell me. What happened?
+
+p1:
+    Sir, when I speak English, people laugh at me.
+    They smile and talk to each other. I feel very bad.
+    I feel I am not good. My English is very weak.
+
+p2:
+    Oh, I understand. You feel sad because people laugh when you speak English.
+    But don't worry. It's okay to make mistakes.
+    Everyone makes mistakes when they learn a new language.
+    You are learning and learning takes time.
+
+p1:
+    But sir, they speak fast. I don't understand them.
+    When I try to talk, my words are wrong.
+    My friends laugh and I feel nervous.
+
+p2:
+    It's fine. You are not alone.
+    Many students feel like you.
+    You only need more practice and confidence.
+    Let's practice together.
+    Let's speak simple English, okay?
+
+p1:
+    Okay, sir. 
+
+p2:
+    We will use simple present tense today.
+    We use simple present tense to talk about daily life, habits and routines.
+    For example, I say, I wake up at six o'clock.
+    That means I do it every day. You can say, I wake up at seven o'clock.
+    Let's try.
+
+p1:
+    I wake up at seven o'clock.
+
+p2:
+    Very good.
+    Say it again slowly.
+
+
+
