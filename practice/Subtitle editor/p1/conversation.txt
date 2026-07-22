@@ -1,4 +1,4 @@
-Clear till => 34
+Clear till => 54
 
 p1:
     Sir, I want to tell something.
@@ -12,13 +12,16 @@ p1:
     I feel I am not good. My English is very weak.
 
 p2:
-    Oh, I understand. You feel sad because people laugh when you speak English.
-    But don't worry. It's okay to make mistakes.
+    Oh, I understand.
+    You feel sad because people laugh when you speak English.
+    But don't worry.
+    It's okay to make mistakes.
     Everyone makes mistakes when they learn a new language.
     You are learning and learning takes time.
 
 p1:
-    But sir, they speak fast. I don't understand them.
+    But sir, they speak fast.
+    I don't understand them.
     When I try to talk, my words are wrong.
     My friends laugh and I feel nervous.
 
@@ -46,5 +49,41 @@ p2:
     Very good.
     Say it again slowly.
 
+p1:
+    I wake up at seven o'clock.
 
+p2:
+    Perfect.
+    See, you speak well.
+    Now let's add more sentences.
 
+p1:
+    I brush my teeth.
+
+p2:
+    Good.
+    Say, I brush my teeth.
+
+p1:
+   I brush my teeth.
+
+p2:
+    Nice.
+    Now say two sentences together.
+
+p1:
+    I wake up at seven o'clock.
+    I brush my teeth.
+
+p2:
+    Excellent.
+    You are learning fast.
+    Let's continue.
+    After you brush your teeth, what do you do?
+
+p1:
+    I wash my face.
+    I take a shower.
+
+p2:
+    Very good.
