@@ -1,4 +1,4 @@
-Clear till => 54
+Clear till => 73
 
 p1:
     Sir, I want to tell something.
@@ -87,3 +87,34 @@ p1:
 
 p2:
     Very good.
+    You can also say, I wash my face and take a shower.
+    Try it.
+
+p1:
+    I wash my face and take a shower.
+
+p2:
+    Great job.
+    Remember, always speak slowly and clearly.
+    Don't be afraid.
+    Let's learn more.
+    After the shower, what do you do?
+
+p1:
+    I eat breakfast.
+
+p2:
+    What do you eat for breakfast?
+
+p1:
+    I eat eggs and bread.
+    Sometimes I drink milk.
+
+p2:
+    Perfect.
+    You are using the simple present tense correctly.
+
+p1:
+    I eat eggs and bread.
+    I drink milk.
+    That's very good.
