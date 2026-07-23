@@ -1,17 +1,24 @@
 Clear till => 73
 
-p1:
+01
+Student:
     Sir, I want to tell something.
 
-p2:
-    Yes, please tell me. What happened?
+02-03
+Teacher:
+    Yes, please tell me.
+    What happened?
 
-p1:
+04-08
+Student:
     Sir, when I speak English, people laugh at me.
-    They smile and talk to each other. I feel very bad.
-    I feel I am not good. My English is very weak.
+    They smile and talk to each other.
+    I feel very bad.
+    I feel I am not good.
+    My English is very weak.
 
-p2:
+09-14
+Teacher:
     Oh, I understand.
     You feel sad because people laugh when you speak English.
     But don't worry.
@@ -19,102 +26,193 @@ p2:
     Everyone makes mistakes when they learn a new language.
     You are learning and learning takes time.
 
-p1:
+15-18
+Student:
     But sir, they speak fast.
     I don't understand them.
     When I try to talk, my words are wrong.
     My friends laugh and I feel nervous.
 
-p2:
-    It's fine. You are not alone.
+19-24
+Teacher:
+    It's fine.
+    You are not alone.
     Many students feel like you.
     You only need more practice and confidence.
     Let's practice together.
     Let's speak simple English, okay?
 
-p1:
+25
+Student:
     Okay, sir. 
 
-p2:
+26-31
+Teacher:
     We will use simple present tense today.
     We use simple present tense to talk about daily life, habits and routines.
     For example, I say, I wake up at six o'clock.
-    That means I do it every day. You can say, I wake up at seven o'clock.
+    That means I do it every day.
+    You can say, I wake up at seven o'clock.
     Let's try.
 
-p1:
+32
+Student:
     I wake up at seven o'clock.
 
-p2:
+33-34
+Teacher:
     Very good.
     Say it again slowly.
 
-p1:
+35
+Student:
     I wake up at seven o'clock.
 
-p2:
+36-39
+Teacher:
     Perfect.
     See, you speak well.
     Now let's add more sentences.
+    After you wake up, what do you do?
 
-p1:
+40
+Student:
     I brush my teeth.
 
-p2:
+41-42
+Teacher:
     Good.
     Say, I brush my teeth.
 
-p1:
+43
+Student:
    I brush my teeth.
 
-p2:
+44-45
+Teacher:
     Nice.
     Now say two sentences together.
 
-p1:
+46-47
+Student:
     I wake up at seven o'clock.
     I brush my teeth.
 
-p2:
+48-51
+Teacher:
     Excellent.
     You are learning fast.
     Let's continue.
     After you brush your teeth, what do you do?
 
-p1:
+52-53
+Student:
     I wash my face.
     I take a shower.
 
-p2:
+54-56
+Teacher:
     Very good.
     You can also say, I wash my face and take a shower.
     Try it.
 
-p1:
+57
+Student:
     I wash my face and take a shower.
 
-p2:
+58-62
+Teacher:
     Great job.
     Remember, always speak slowly and clearly.
     Don't be afraid.
     Let's learn more.
     After the shower, what do you do?
 
-p1:
+63
+Student:
     I eat breakfast.
 
-p2:
+64-66
+Teacher:
+    Yes.
+    I eat breakfast
     What do you eat for breakfast?
 
-p1:
+67-68
+Student:
     I eat eggs and bread.
     Sometimes I drink milk.
 
-p2:
+69-73
+Teacher:
     Perfect.
     You are using the simple present tense correctly.
-
-p1:
     I eat eggs and bread.
     I drink milk.
     That's very good.
+
+74
+Student:
+    Thank you, sir.
+
+75
+Teacher:
+    Now, what do you do after breakfast?
+
+76
+Student:
+    I go to school.
+
+77-78
+Teacher:
+    Nice.
+    You can say, I go to school at eight o'clock.
+
+79
+Student:
+    I go to school at eight o'clock.
+
+80-81
+Teacher:
+    Well done.
+    And what do you do at school?
+
+82-85
+Student:
+    I study English.
+    I write.
+    I read.
+    I talk to my friends.
+
+86-97
+Teacher:
+    Excellent.
+    You are speaking very well.
+    Let's make a small paragraph.
+    Listen to me first.
+    Then repeat after me.
+    I wake up at seven o'clock.
+    I brush my teeth.
+    I wash my face and take a shower.
+    I eat breakfast.
+    I go to school at eight o'clock.
+    I study English.
+    I talk to my friends.
+
+98-104
+Student:
+    I wake up at seven o'clock.
+    I brush my teeth.
+    I wash my face and take a shower.
+    I eat breakfast.
+    I go to school at eight o'clock.
+    I study English.
+    I talk to my friends.
+
+105-109
+Teacher:
+    Very good.
+    You spoke all sentences clearly.
+    See,
+    You can speak English.
+    You only need to practice more.
