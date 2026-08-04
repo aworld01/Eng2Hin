@@ -11,6 +11,36 @@ I have a new car.
 मेरे पास एक नई गाड़ी है।
 
 
+
+
+
+I suppose.
+मुझे लगता है।
+
+I assume.
+मैं मान लेता हूँ।
+
+I realize.
+मुझे एहसास है।
+
+I remember.
+मुझे याद है।
+
+I forget.
+मैं भूल जाता हूँ।
+
+I notice.
+मैं ध्यान देता हूँ।
+
+I observe.
+मैं अवलोकन करता हूँ।
+
+I recognize.
+मैं पहचानता हूँ।
+
+
+
+
 I have a car.
 You have a car.
 He has a car.
