@@ -11,7 +11,7 @@ I know how to decide.
 मुझे फैसला लेना आता है।
 
 I know how to handle it.
-मुझे पता है इसे कैसे संभालना है।
+मुझे इसे संभालना आता है।
 
 I know how to solve problems.
 मुझे समस्याओं का समाधान करना आता है।
@@ -28,7 +28,7 @@ I know how to apologize.
 I know how to keep a secret.
 मुझे राज़ रखना आता है।
 
-I know how to focus
+I know how to focus.
 मुझे ध्यान केंद्रित करना आता है।
 
 I know how to save time.
@@ -85,7 +85,7 @@ I know how to work under pressure.
 I know how to be patient.
 मुझे धैर्य रखना आता है।
 
-I know how to deal with tough thing times.
+I know how to deal with tough times.
 मुझे कठिन समय से निपटना आता है।
 
 I know how to control myself.
@@ -93,3 +93,30 @@ I know how to control myself.
 
 I know how to move on.
 मुझे आगे बढ़ना आता है।
+
+
+
+
+I suppose.
+मुझे लगता है।
+
+I assume.
+मैं मान लेता हूँ।
+
+I realize.
+मुझे एहसास है।
+
+I remember.
+मुझे याद है।
+
+I forget.
+मैं भूल जाता हूँ।
+
+I notice.
+मैं ध्यान देता हूँ।
+
+I observe.
+मैं अवलोकन करता हूँ।
+
+I recognize.
+मैं पहचानता हूँ।
