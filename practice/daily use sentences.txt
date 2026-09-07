@@ -238,3 +238,11 @@ I'm a teetotaler.
 मैं शराब नहीं पीता।
 
 
+I am feeling sleepy.
+मुझे नींद आ रही है।
+
+You did a great job.
+तुमने बहुत अच्छा काम किया।
+
+I'm telling the truth.
+मैं सच कह रहा हूं।
