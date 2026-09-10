@@ -29,7 +29,7 @@ import os
 # When you run the script with no arguments, every .txt file in
 # this folder is used automatically.
 # ---------------------------------------------------------------
-DEFAULT_INPUT_DIR = "input_files"
+DEFAULT_INPUT_DIR = "."
 
 
 def extract_pairs_from_file(input_path):
